@@ -1,6 +1,7 @@
 '''Application for prediction price of real state'''
 import os
 import pickle
+import traceback
 
 import numpy as np
 import pandas as pd
@@ -84,9 +85,10 @@ def index():
             transformado = objeto.data_preparation(inputs.set_predict_model())
             preco = objeto.get_prediction(transformado)
             return jsonify(data={"price": round(preco[0],2)}), 200
-        except TypeError:
-            return "Data in wrong format", 422
+        except TypeError as error:
+            return f"{error}\nData in wrong format", 422
         except Exception as error:
+            traceback.print_exc()
             return f"{error}", 400
 
 if __name__ == "__main__":
