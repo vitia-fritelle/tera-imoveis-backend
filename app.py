@@ -71,7 +71,7 @@ def index():
             rooms = request.json['quartos']
             bathrooms = request.json['banheiros']
             garage = request.json['vagas']
-            area = request.json['area']
+            area = request.json['area'].split('.')[0]
             category = request.json['categoria']
             neighborhood = request.json['bairro']
             inputs = InputModel(
