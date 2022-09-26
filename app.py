@@ -36,7 +36,7 @@ class InputModel:
         neighborhood: str):
         self.bathrooms = bathrooms
         self.garage = garage
-        self.rooms_by_area = rooms/float(area)
+        self.rooms_by_area = rooms/area
         self.log_area = np.log1p(area)
         self.bairro_por_area = float(
             bairro_area_conversor[
@@ -68,10 +68,10 @@ def index():
     '''POST /api route to get the price'''
     if request.method == 'POST':
         try:
-            rooms = request.json['quartos']
-            bathrooms = request.json['banheiros']
-            garage = request.json['vagas']
-            area = request.json['area'].split('.')[0]
+            rooms = int(request.json['quartos'])
+            bathrooms = int(request.json['banheiros'])
+            garage = int(request.json['vagas'])
+            area = float(request.json['area'])
             category = request.json['categoria']
             neighborhood = request.json['bairro']
             inputs = InputModel(
