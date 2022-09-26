@@ -6,6 +6,7 @@ import numpy as np
 import pandas as pd
 from dotenv import load_dotenv
 from flask import Flask, jsonify, request
+from flask_cors import CORS
 from waitress import serve
 
 from class_previsao import Precificacao
@@ -13,6 +14,7 @@ from class_previsao import Precificacao
 load_dotenv()
 app = Flask(__name__)
 app.secret_key = os.environ.get('SECRET_KEY')
+CORS(app)
 objeto = Precificacao()
 
 # Inicialização dos arquivos auxiliares
