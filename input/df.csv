@@ -1,0 +1,2512 @@
+,Categoria,Area construida,Preço,Quartos,Banheiros,Vagas,Bairro
+0,Apartamentos,210.0,1100000.0,3,4,4,Fátima
+1,Apartamentos,50.0,115000.0,2,1,1,Vale do Gavião
+2,Casas,210.0,1450000.0,4,5,4,Gurupi
+3,Casas,140.0,690000.0,4,4,2,Zoobotânico
+5,Casas,260.0,795000.0,3,4,2,Santa Lia
+6,Apartamentos,227.0,2300000.0,4,1,3,Jóquei
+7,Casas,174.0,600000.0,3,3,4,Santa Isabel
+8,Apartamentos,304.0,2300000.0,4,5,4,Jóquei
+9,Apartamentos,192.0,820000.0,3,3,2,Frei Serafim
+11,Apartamentos,47.0,135000.0,2,1,1,Cidade Nova
+12,Apartamentos,55.0,320046.0,2,2,1,Primavera
+13,Casas,422.0,700000.0,4,5,5,Santa Lia
+14,Casas,360.0,960000.0,3,3,4,Santa Isabel
+15,Casas,110.0,200000.0,3,2,1,Real Copagri
+16,Casas,544.0,1300000.0,4,4,2,Jóquei
+17,Apartamentos,64.0,390000.0,2,1,1,Fátima
+18,Apartamentos,85.0,650000.0,3,1,2,Jóquei
+19,Apartamentos,303.0,2757000.0,5,1,4,Jóquei
+20,Apartamentos,89.0,119900.0,4,2,1,Memorare
+21,Apartamentos,73.0,254000.0,3,1,1,Triunfo
+22,Casas,142.0,990000.0,3,3,2,Uruguai
+23,Apartamentos,100.0,310000.0,3,3,2,São João
+24,Casas,218.0,750000.0,5,5,5,Ininga
+25,Apartamentos,180.0,1480000.0,3,4,3,São Cristóvão
+26,Apartamentos,56.0,254054.0,2,2,1,Uruguai
+27,Apartamentos,47.0,213490.0,2,1,1,Cristo Rei
+28,Apartamentos,58.0,220000.0,2,1,1,Santa Isabel
+29,Apartamentos,50.0,530000.0,3,1,1,Jóquei
+30,Apartamentos,66.0,280000.0,3,2,1,Gurupi
+31,Apartamentos,67.0,300000.0,3,2,2,Gurupi
+32,Casas,216.0,1100000.0,4,5,4,Uruguai
+33,Apartamentos,67.0,410000.0,2,2,1,Jóquei
+34,Apartamentos,48.0,130000.0,2,1,1,Morros
+35,Apartamentos,46.0,130000.0,2,1,1,Vale do Gavião
+36,Casas,200.0,450000.0,2,1,1,Mocambinho
+37,Apartamentos,74.0,360000.0,3,2,1,Santa Isabel
+38,Casas,107.0,578610.0,4,5,2,Morros
+39,Apartamentos,85.0,535000.0,3,2,2,Ilhotas
+40,Apartamentos,75.0,290000.0,3,2,1,Piçarreira
+41,Apartamentos,90.0,460000.0,3,2,2,Jóquei
+42,Apartamentos,224.0,1800000.0,3,4,3,Jóquei
+43,Casas,115.0,280000.0,3,2,2,Rodoviária
+44,Apartamentos,75.0,350000.0,3,2,1,Santa Isabel
+45,Apartamentos,79.0,735000.0,2,3,2,Fátima
+46,Apartamentos,80.0,760000.0,3,2,2,Fátima
+47,Apartamentos,65.0,220000.0,3,2,1,Uruguai
+48,Apartamentos,115.0,215000.0,3,2,1,Aeroporto
+49,Apartamentos,60.0,517000.0,1,2,1,Jóquei
+50,Casas,160.0,680000.0,4,5,2,Morros
+52,Apartamentos,71.0,220000.0,2,2,1,Horto
+53,Casas,210.0,1150000.0,4,4,2,Morros
+54,Apartamentos,69.0,450000.0,3,2,2,Horto
+55,Casas,351.0,850000.0,5,5,5,Centro
+56,Casas,105.0,380000.0,2,1,1,Piçarreira
+57,Apartamentos,61.0,300000.0,2,1,2,Santa Isabel
+58,Apartamentos,64.0,180000.0,3,2,1,Gurupi
+59,Casas,270.0,750000.0,3,1,3,Morros
+60,Apartamentos,64.0,180000.0,3,2,1,Gurupi
+61,Apartamentos,250.0,1300000.0,5,5,1,Centro
+62,Casas,380.0,600000.0,4,5,4,São Cristóvão
+63,Casas,135.0,340000.0,3,3,2,Parque Ideal
+64,Apartamentos,51.0,179000.0,2,1,1,Aroeiras
+65,Casas,200.0,550000.0,3,3,0,São Cristóvão
+66,Apartamentos,83.0,630000.0,2,3,1,Jóquei
+67,Apartamentos,76.0,280000.0,3,2,1,Horto
+68,Casas,303.0,850000.0,4,4,4,Fátima
+69,Apartamentos,60.0,185000.0,3,2,1,Vale Quem Tem
+70,Casas,233.0,960000.0,3,3,4,Santa Isabel
+71,Apartamentos,130.0,770000.0,3,2,2,Fátima
+72,Apartamentos,82.0,630000.0,3,4,2,Jóquei
+73,Casas,280.0,1150000.0,4,5,4,Morros
+74,Apartamentos,68.0,280000.0,3,2,1,Piçarreira
+75,Casas,90.0,414000.0,3,2,2,Gurupi
+76,Apartamentos,80.0,560000.0,3,4,2,Horto
+77,Apartamentos,72.0,398000.0,3,3,2,Noivos
+78,Apartamentos,56.0,180000.0,3,1,1,Novo Horizonte
+79,Casas,233.0,960000.0,3,3,4,Santa Isabel
+80,Casas,600.0,680000.0,4,1,5,Parque Ideal
+81,Casas,10.0,850000.0,4,2,5,Lourival Parente
+82,Apartamentos,77.0,370000.0,2,3,1,Campestre
+83,Apartamentos,105.0,650000.0,3,2,2,Fátima
+84,Apartamentos,75.0,420000.0,3,2,1,Santa Isabel
+85,Casas,350.0,850000.0,5,5,4,Ininga
+86,Apartamentos,66.0,315000.0,3,2,1,Gurupi
+87,Apartamentos,62.0,340000.0,3,2,2,São João
+88,Apartamentos,45.0,199000.0,2,2,1,Uruguai
+89,Apartamentos,59.0,220000.0,3,2,1,Parque Ideal
+90,Apartamentos,67.0,300000.0,3,2,2,Gurupi
+91,Apartamentos,106.0,850000.0,3,4,2,Horto
+92,Apartamentos,41.0,339992.0,1,1,1,Ininga
+93,Apartamentos,128.0,1000000.0,3,4,2,Fátima
+94,Apartamentos,202.0,1200000.0,5,5,3,Fátima
+95,Apartamentos,67.0,140000.0,3,2,1,Novo Horizonte
+96,Apartamentos,141.0,1270000.0,3,4,3,Fátima
+97,Apartamentos,72.0,460000.0,2,3,2,São Cristóvão
+98,Apartamentos,227.0,1900000.0,3,4,4,Jóquei
+99,Apartamentos,77.0,240000.0,3,1,1,Campestre
+100,Apartamentos,119.0,950000.0,3,4,2,São Cristóvão
+101,Apartamentos,89.0,350000.0,3,3,2,Morada do Sol
+102,Apartamentos,67.0,300000.0,3,2,2,Gurupi
+103,Apartamentos,82.0,630000.0,3,4,2,Jóquei
+105,Apartamentos,58.0,150000.0,2,1,1,Santa Isabel
+107,Casas,100.0,449900.0,3,1,2,Morros
+108,Casas,100.0,437800.0,3,3,2,Gurupi
+109,Apartamentos,62.0,300000.0,3,2,2,Uruguai
+110,Apartamentos,67.0,300000.0,3,1,2,Gurupi
+111,Casas,280.0,1650000.0,4,4,4,Uruguai
+112,Casas,75.0,110000.0,2,1,2,Aroeiras
+113,Apartamentos,80.0,260000.0,3,3,1,Santa Isabel
+114,Apartamentos,92.0,830000.0,3,2,2,Morada do Sol
+115,Apartamentos,92.0,830000.0,3,2,2,Morada do Sol
+116,Casas,72.0,240000.0,2,2,2,Vale Quem Tem
+117,Apartamentos,75.0,245000.0,3,2,1,Horto
+118,Apartamentos,64.0,370000.0,3,2,2,Gurupi
+119,Apartamentos,177.0,1100000.0,4,5,2,Centro
+120,Apartamentos,124.0,690000.0,3,2,2,Jóquei
+121,Apartamentos,255.0,1800000.0,4,5,3,Horto
+122,Casas,130.0,661000.0,3,3,2,Vale Quem Tem
+123,Casas,90.0,250000.0,3,2,2,Aroeiras
+124,Apartamentos,105.0,750000.0,3,2,2,Fátima
+125,Apartamentos,101.0,370000.0,2,2,1,São Cristóvão
+126,Apartamentos,244.0,2000000.0,4,5,3,São Cristóvão
+127,Apartamentos,187.0,1210000.0,4,4,3,Noivos
+128,Apartamentos,224.0,1800000.0,3,4,3,Jóquei
+129,Apartamentos,59.0,624248.0,1,1,1,São Cristóvão
+131,Apartamentos,304.0,1900000.0,4,5,2,Jóquei
+132,Apartamentos,127.0,1150000.0,3,4,2,Fátima
+133,Apartamentos,77.0,345000.0,3,3,1,Morada do Sol
+134,Apartamentos,74.0,355000.0,3,2,1,Santa Isabel
+135,Casas,205.0,1100000.0,4,4,5,Porto do Centro
+136,Apartamentos,48.0,170000.0,2,1,1,Bom Princípio
+137,Apartamentos,141.0,1174400.0,3,4,3,São Cristóvão
+138,Casas,59.0,240000.0,2,2,2,Mocambinho
+139,Apartamentos,118.0,878000.0,3,4,2,São Cristóvão
+140,Apartamentos,119.0,950000.0,3,4,2,São Cristóvão
+141,Apartamentos,64.0,370000.0,3,1,1,São Sebastião
+142,Apartamentos,224.0,1800000.0,3,4,3,Jóquei
+143,Apartamentos,50.0,196000.0,2,1,1,Vale Quem Tem
+144,Apartamentos,77.0,300000.0,3,3,1,Porto do Centro
+145,Casas,217.0,750000.0,4,4,5,Ininga
+147,Apartamentos,49.0,150000.0,2,1,1,Uruguai
+148,Apartamentos,69.0,450000.0,3,2,2,Noivos
+149,Apartamentos,50.0,450000.0,3,2,1,Ininga
+150,Casas,209.0,1600000.0,4,1,2,Uruguai
+151,Casas,182.0,980000.0,4,5,3,Horto
+152,Casas,122.0,598535.0,4,4,3,Morros
+153,Apartamentos,66.0,190000.0,2,2,1,Colorado
+154,Apartamentos,86.0,562000.0,3,3,2,Jóquei
+155,Casas,134.0,660000.0,3,3,2,Piçarreira
+156,Apartamentos,56.0,221921.0,2,1,2,Uruguai
+157,Apartamentos,96.0,290000.0,3,2,1,Noivos
+158,Apartamentos,60.0,300000.0,2,2,1,Santa Isabel
+159,Apartamentos,96.0,330000.0,3,3,2,São Pedro
+160,Apartamentos,77.0,459100.0,3,2,2,São Cristóvão
+161,Apartamentos,50.0,170000.0,1,1,1,Cabral
+162,Apartamentos,62.0,205000.0,3,2,1,Novo Horizonte
+163,Apartamentos,66.0,360000.0,3,2,2,Cristo Rei
+164,Apartamentos,62.0,270000.0,3,2,2,Recanto das Palmeiras
+165,Casas,240.0,780000.0,4,5,4,Santa Isabel
+166,Casas,276.0,720000.0,4,4,2,Morada do Sol
+167,Apartamentos,70.0,390000.0,1,1,2,Ininga
+168,Apartamentos,68.0,185000.0,3,2,1,Uruguai
+169,Apartamentos,80.0,220000.0,3,2,1,Cidade Nova
+170,Casas,158.0,680000.0,4,5,2,Socopo
+171,Casas,98.0,444900.0,3,3,2,Morros
+172,Apartamentos,77.0,415000.0,3,2,1,Ininga
+174,Casas,237.0,1250000.0,4,1,5,Fátima
+175,Apartamentos,78.0,498100.0,3,2,2,Monte Castelo
+176,Casas,370.0,550000.0,4,4,2,Centro
+177,Apartamentos,104.0,770000.0,3,2,0,Frei Serafim
+178,Apartamentos,99.0,160000.0,2,2,1,Uruguai
+180,Casas,220.0,750000.0,4,5,3,Morros
+181,Apartamentos,56.0,165000.0,2,1,1,Todos os Santos
+182,Apartamentos,62.0,180000.0,3,2,1,Todos os Santos
+183,Apartamentos,62.0,329500.0,3,2,2,Nossa Senhora das Graças
+184,Apartamentos,90.0,240000.0,3,2,1,São Cristóvão
+185,Apartamentos,74.0,345000.0,3,2,1,Santa Isabel
+186,Casas,120.0,330000.0,3,1,1,Parque Piauí
+187,Casas,200.0,600000.0,2,1,1,Parque Ideal
+188,Apartamentos,59.0,160000.0,2,2,1,Uruguai
+189,Casas,100.0,650000.0,4,1,4,Marquês
+190,Apartamentos,75.0,328000.0,3,2,1,Jóquei
+191,Apartamentos,77.0,270000.0,3,3,1,Campestre
+192,Apartamentos,41.0,190000.0,2,1,1,Morada do Sol
+193,Casas,90.0,400000.0,3,3,2,Gurupi
+194,Casas,89.0,438000.0,3,2,2,Gurupi
+195,Apartamentos,49.0,160000.0,2,2,1,Angelim
+196,Apartamentos,46.0,180000.0,2,1,0,Novo Horizonte
+197,Apartamentos,130.0,1025172.0,3,1,3,Fátima
+198,Casas,228.0,1600000.0,4,4,2,Uruguai
+199,Casas,270.0,1750000.0,4,4,2,Tabajaras
+200,Casas,138.0,720000.0,4,4,2,Zoobotânico
+201,Apartamentos,142.0,1159400.0,2,4,3,São Cristóvão
+202,Apartamentos,56.0,329500.0,2,2,1,Nossa Senhora das Graças
+204,Apartamentos,46.0,129900.0,2,1,1,Vale do Gavião
+205,Casas,130.0,560000.0,3,4,3,Jóquei
+206,Apartamentos,63.0,330000.0,3,2,2,Piçarreira
+207,Apartamentos,60.0,280000.0,2,1,1,Uruguai
+208,Apartamentos,77.0,330000.0,3,2,2,Uruguai
+209,Apartamentos,70.0,350000.0,3,2,1,Jóquei
+210,Casas,100.0,420000.0,3,3,2,Gurupi
+211,Apartamentos,187.0,1207000.0,3,3,2,Noivos
+212,Apartamentos,50.0,145000.0,2,1,1,Aroeiras
+213,Casas,441.0,200000.0,5,1,2,Piçarreira
+214,Apartamentos,187.0,700000.0,4,4,2,Horto
+215,Apartamentos,78.0,498100.0,3,2,2,Monte Castelo
+216,Apartamentos,237.0,1381826.0,3,1,2,Jóquei
+217,Casas,120.0,628000.0,4,1,2,Gurupi
+218,Apartamentos,50.0,207360.0,2,1,1,Uruguai
+219,Casas,99.0,435000.0,3,1,2,Gurupi
+220,Apartamentos,74.0,504000.0,3,2,1,Santa Isabel
+221,Apartamentos,81.0,230000.0,3,3,1,São João
+222,Apartamentos,90.0,472600.0,3,1,2,São Cristóvão
+223,Casas,140.0,750000.0,4,5,2,Zoobotânico
+224,Casas,240.0,600000.0,3,1,4,Morada do Sol
+225,Casas,160.0,380000.0,4,4,3,Saci
+226,Apartamentos,67.0,280000.0,3,1,1,Noivos
+227,Apartamentos,227.0,2000000.0,4,5,4,Jóquei
+228,Casas,240.0,770000.0,3,4,4,Morros
+230,Apartamentos,107.0,480000.0,3,3,2,Horto
+231,Apartamentos,130.0,1000000.0,3,3,2,Fátima
+232,Casas,200.0,250000.0,2,1,2,Itararé
+233,Apartamentos,38.0,180500.0,2,2,2,Uruguai
+234,Casas,210.0,1150000.0,4,4,2,Morros
+235,Apartamentos,190.0,850000.0,3,3,2,Ininga
+236,Apartamentos,54.0,288500.0,2,2,2,São Cristóvão
+237,Apartamentos,69.0,240000.0,3,2,1,Centro
+238,Apartamentos,49.0,130000.0,2,1,1,Santa Maria
+239,Apartamentos,76.0,630000.0,3,3,2,Horto
+240,Apartamentos,38.0,157500.0,2,1,1,Gurupi
+241,Apartamentos,69.0,220000.0,2,2,1,Horto
+242,Apartamentos,75.0,230000.0,3,1,1,Piçarreira
+243,Apartamentos,64.0,300000.0,3,2,1,Gurupi
+244,Apartamentos,76.0,580000.0,3,2,2,Horto
+245,Apartamentos,196.0,890000.0,4,1,2,Frei Serafim
+246,Apartamentos,168.0,1657000.0,3,3,2,Jóquei
+247,Casas,350.0,1300000.0,3,3,4,Ininga
+248,Casas,200.0,500000.0,3,2,1,Morro da Esperança
+249,Apartamentos,56.0,225000.0,2,1,1,Aeroporto
+250,Apartamentos,60.0,240000.0,2,1,2,Aeroporto
+251,Apartamentos,71.0,390000.0,3,2,2,Noivos
+252,Apartamentos,47.0,130000.0,2,1,1,Vale do Gavião
+253,Apartamentos,48.0,160000.0,2,1,1,Cidade Jardim
+254,Casas,69.0,155000.0,2,1,1,Santa Maria
+255,Apartamentos,45.0,200000.0,2,1,2,Noivos
+256,Casas,151.0,780000.0,4,1,2,Samapi
+257,Casas,107.0,589325.0,4,4,3,Morros
+258,Apartamentos,68.0,381957.0,3,2,1,Três Andares
+259,Apartamentos,72.0,280000.0,3,2,1,Piçarreira
+260,Casas,360.0,1100000.0,4,1,5,Ininga
+261,Apartamentos,130.0,450000.0,3,3,0,São Cristóvão
+262,Apartamentos,73.0,400000.0,3,2,2,Recanto das Palmeiras
+263,Apartamentos,64.0,300000.0,3,2,2,São João
+264,Casas,220.0,485000.0,3,3,2,Parque São João
+265,Casas,88.0,420000.0,3,4,2,Morros
+266,Casas,77.0,352800.0,3,3,2,Novo Uruguai
+267,Casas,600.0,1000000.0,4,4,5,Planalto
+268,Casas,550.0,1400000.0,5,5,5,Campestre
+269,Apartamentos,77.0,325000.0,3,3,1,Campestre
+270,Casas,216.0,1100000.0,4,5,2,Gurupi
+271,Apartamentos,206.0,1760000.0,4,4,3,Jóquei
+272,Casas,280.0,1400000.0,4,4,5,Ininga
+273,Casas,175.0,890000.0,4,5,4,Gurupi
+274,Apartamentos,69.0,210000.0,3,2,1,Cristo Rei
+275,Apartamentos,81.0,240000.0,3,2,1,Porenquanto
+276,Apartamentos,161.0,800000.0,3,2,2,Jóquei
+277,Casas,180.0,730000.0,4,4,4,Morros
+278,Apartamentos,45.0,145000.0,2,1,1,Morros
+279,Casas,243.0,780000.0,4,3,4,São João
+280,Casas,180.0,250000.0,3,3,1,Mocambinho
+281,Casas,300.0,350000.0,3,1,2,Vale Quem Tem
+282,Apartamentos,76.0,375000.0,3,2,2,Morros
+283,Apartamentos,110.0,977139.0,3,4,2,Jóquei
+284,Apartamentos,79.0,290000.0,3,1,1,Vale do Gavião
+285,Apartamentos,50.0,215251.0,2,1,1,Uruguai
+286,Apartamentos,49.0,130000.0,2,1,1,Piçarreira
+287,Apartamentos,68.0,280000.0,3,2,1,Piçarreira
+288,Apartamentos,60.0,275000.0,2,2,1,Uruguai
+289,Apartamentos,153.0,1400000.0,3,4,5,Núcleo Urbano Fazenda Real
+290,Apartamentos,78.0,490000.0,3,3,2,Monte Castelo
+292,Apartamentos,51.0,220000.0,2,1,1,Aeroporto
+293,Apartamentos,40.0,130000.0,2,1,1,Cristo Rei
+294,Apartamentos,49.0,150000.0,2,1,1,Santa Isabel
+295,Apartamentos,59.0,350000.0,2,1,1,Recanto das Palmeiras
+296,Apartamentos,64.0,350000.0,2,2,1,Fátima
+297,Apartamentos,72.0,398000.0,3,3,2,Noivos
+298,Apartamentos,48.0,164990.0,2,1,1,Cidade Jardim
+299,Casas,215.0,1800000.0,4,4,2,Uruguai
+300,Casas,294.0,1650000.0,4,5,5,Morros
+301,Apartamentos,65.0,190000.0,3,2,1,Novo Horizonte
+302,Apartamentos,130.0,1300000.0,4,5,2,Fátima
+303,Apartamentos,60.0,280000.0,2,1,1,Santa Isabel
+304,Casas,315.0,2600000.0,4,5,4,Gurupi
+306,Apartamentos,42.0,180000.0,2,1,1,Uruguai
+307,Apartamentos,150.0,130000.0,2,1,1,Nova Brasília
+308,Apartamentos,225.0,2185000.0,4,4,4,Jóquei
+310,Apartamentos,107.0,890000.0,3,4,2,Horto
+311,Apartamentos,77.0,360000.0,3,2,2,Morros
+312,Apartamentos,60.0,125000.0,2,1,1,Morada Nova
+313,Apartamentos,90.0,472600.0,3,1,2,São Cristóvão
+314,Casas,140.0,750000.0,4,5,2,Zoobotânico
+315,Casas,240.0,600000.0,3,1,4,Morada do Sol
+316,Casas,160.0,380000.0,4,4,3,Saci
+317,Apartamentos,67.0,280000.0,3,1,1,Noivos
+318,Apartamentos,227.0,2000000.0,4,5,4,Jóquei
+319,Casas,240.0,770000.0,3,4,4,Morros
+321,Apartamentos,107.0,480000.0,3,3,2,Horto
+322,Apartamentos,130.0,1000000.0,3,3,2,Fátima
+324,Apartamentos,276.0,1600000.0,3,5,5,Jóquei
+325,Apartamentos,62.0,204000.0,3,2,1,Parque Ideal
+326,Casas,575.0,2950000.0,4,5,4,Uruguai
+327,Apartamentos,50.0,196000.0,2,1,1,Vale Quem Tem
+328,Apartamentos,77.0,300000.0,3,3,1,Porto do Centro
+329,Casas,217.0,750000.0,4,4,5,Ininga
+331,Apartamentos,49.0,150000.0,2,1,1,Uruguai
+332,Apartamentos,69.0,450000.0,3,2,2,Noivos
+333,Apartamentos,50.0,450000.0,3,2,1,Ininga
+334,Casas,209.0,1600000.0,4,1,2,Uruguai
+335,Casas,182.0,980000.0,4,5,3,Horto
+336,Casas,122.0,598535.0,4,4,3,Morros
+337,Apartamentos,66.0,190000.0,2,2,1,Colorado
+338,Apartamentos,86.0,562000.0,3,3,2,Jóquei
+339,Casas,134.0,660000.0,3,3,2,Piçarreira
+340,Apartamentos,56.0,221921.0,2,1,2,Uruguai
+341,Apartamentos,96.0,290000.0,3,2,1,Noivos
+342,Apartamentos,60.0,300000.0,2,2,1,Santa Isabel
+343,Apartamentos,96.0,330000.0,3,3,2,São Pedro
+344,Apartamentos,77.0,459100.0,3,2,2,São Cristóvão
+345,Apartamentos,50.0,170000.0,1,1,1,Cabral
+346,Apartamentos,62.0,205000.0,3,2,1,Novo Horizonte
+347,Apartamentos,66.0,360000.0,3,2,2,Cristo Rei
+348,Apartamentos,62.0,270000.0,3,2,2,Recanto das Palmeiras
+349,Casas,240.0,780000.0,4,5,4,Santa Isabel
+350,Casas,276.0,720000.0,4,4,2,Morada do Sol
+351,Apartamentos,70.0,390000.0,1,1,2,Ininga
+352,Apartamentos,68.0,185000.0,3,2,1,Uruguai
+353,Apartamentos,80.0,220000.0,3,2,1,Cidade Nova
+354,Casas,158.0,680000.0,4,5,2,Socopo
+355,Casas,98.0,444900.0,3,3,2,Morros
+356,Apartamentos,77.0,415000.0,3,2,1,Ininga
+357,Apartamentos,73.0,400000.0,3,2,2,Recanto das Palmeiras
+358,Apartamentos,64.0,300000.0,3,2,2,São João
+359,Casas,220.0,485000.0,3,3,2,Parque São João
+360,Casas,88.0,420000.0,3,4,2,Morros
+361,Casas,77.0,352800.0,3,3,2,Novo Uruguai
+362,Casas,600.0,1000000.0,4,4,5,Planalto
+363,Casas,550.0,1400000.0,5,5,5,Campestre
+364,Apartamentos,77.0,325000.0,3,3,1,Campestre
+365,Casas,216.0,1100000.0,4,5,2,Gurupi
+366,Apartamentos,206.0,1760000.0,4,4,3,Jóquei
+367,Casas,280.0,1400000.0,4,4,5,Ininga
+368,Casas,175.0,890000.0,4,5,4,Gurupi
+369,Apartamentos,69.0,210000.0,3,2,1,Cristo Rei
+370,Apartamentos,81.0,240000.0,3,2,1,Porenquanto
+371,Apartamentos,161.0,800000.0,3,2,2,Jóquei
+372,Casas,180.0,730000.0,4,4,4,Morros
+373,Casas,110.0,400000.0,3,3,2,Piçarreira
+374,Casas,150.0,650000.0,3,2,2,Morros
+375,Apartamentos,59.0,160000.0,2,2,1,Uruguai
+376,Casas,100.0,650000.0,4,1,4,Marquês
+377,Apartamentos,75.0,328000.0,3,2,1,Jóquei
+378,Apartamentos,77.0,270000.0,3,3,1,Campestre
+379,Apartamentos,41.0,190000.0,2,1,1,Morada do Sol
+380,Casas,90.0,400000.0,3,3,2,Gurupi
+381,Casas,89.0,438000.0,3,2,2,Gurupi
+382,Apartamentos,49.0,160000.0,2,2,1,Angelim
+383,Apartamentos,46.0,180000.0,2,1,0,Novo Horizonte
+384,Apartamentos,130.0,1025172.0,3,1,3,Fátima
+385,Casas,228.0,1600000.0,4,4,2,Uruguai
+386,Casas,270.0,1750000.0,4,4,2,Tabajaras
+387,Casas,138.0,720000.0,4,4,2,Zoobotânico
+388,Apartamentos,142.0,1159400.0,2,4,3,São Cristóvão
+389,Apartamentos,56.0,329500.0,2,2,1,Nossa Senhora das Graças
+391,Apartamentos,46.0,129900.0,2,1,1,Vale do Gavião
+392,Casas,130.0,560000.0,3,4,3,Jóquei
+393,Apartamentos,63.0,330000.0,3,2,2,Piçarreira
+394,Apartamentos,60.0,280000.0,2,1,1,Uruguai
+395,Apartamentos,77.0,330000.0,3,2,2,Uruguai
+396,Apartamentos,70.0,350000.0,3,2,1,Jóquei
+397,Casas,100.0,420000.0,3,3,2,Gurupi
+398,Apartamentos,187.0,1207000.0,3,3,2,Noivos
+399,Apartamentos,50.0,145000.0,2,1,1,Aroeiras
+400,Casas,441.0,200000.0,5,1,2,Piçarreira
+401,Apartamentos,187.0,700000.0,4,4,2,Horto
+402,Apartamentos,65.0,190000.0,3,2,1,Novo Horizonte
+403,Apartamentos,130.0,1300000.0,4,5,2,Fátima
+404,Apartamentos,60.0,280000.0,2,1,1,Santa Isabel
+405,Casas,315.0,2600000.0,4,5,4,Gurupi
+407,Apartamentos,42.0,180000.0,2,1,1,Uruguai
+408,Apartamentos,150.0,130000.0,2,1,1,Nova Brasília
+409,Apartamentos,225.0,2185000.0,4,4,4,Jóquei
+411,Apartamentos,107.0,890000.0,3,4,2,Horto
+412,Apartamentos,77.0,360000.0,3,2,2,Morros
+413,Apartamentos,60.0,125000.0,2,1,1,Morada Nova
+414,Apartamentos,42.0,140000.0,2,1,1,Morada do Sol
+415,Casas,230.0,340000.0,3,1,2,Parque Ideal
+416,Casas,450.0,600000.0,3,1,5,Santa Isabel
+417,Casas,200.0,820000.0,4,5,3,Gurupi
+418,Apartamentos,68.0,320000.0,3,2,2,Planalto
+419,Apartamentos,68.0,195000.0,3,2,1,Parque Piauí
+420,Apartamentos,74.0,200000.0,3,2,1,Lourival Parente
+421,Casas,200.0,250000.0,2,1,2,Itararé
+422,Apartamentos,38.0,180500.0,2,2,2,Uruguai
+423,Casas,210.0,1150000.0,4,4,2,Morros
+424,Apartamentos,190.0,850000.0,3,3,2,Ininga
+425,Apartamentos,54.0,288500.0,2,2,2,São Cristóvão
+426,Apartamentos,69.0,240000.0,3,2,1,Centro
+427,Apartamentos,49.0,130000.0,2,1,1,Santa Maria
+428,Apartamentos,76.0,630000.0,3,3,2,Horto
+429,Apartamentos,38.0,157500.0,2,1,1,Gurupi
+430,Apartamentos,69.0,220000.0,2,2,1,Horto
+431,Apartamentos,75.0,230000.0,3,1,1,Piçarreira
+432,Apartamentos,64.0,300000.0,3,2,1,Gurupi
+433,Apartamentos,76.0,580000.0,3,2,2,Horto
+434,Apartamentos,196.0,890000.0,4,1,2,Frei Serafim
+435,Apartamentos,168.0,1657000.0,3,3,2,Jóquei
+436,Casas,350.0,1300000.0,3,3,4,Ininga
+437,Casas,200.0,500000.0,3,2,1,Morro da Esperança
+438,Apartamentos,56.0,225000.0,2,1,1,Aeroporto
+439,Apartamentos,60.0,240000.0,2,1,2,Aeroporto
+440,Apartamentos,71.0,390000.0,3,2,2,Noivos
+441,Apartamentos,47.0,130000.0,2,1,1,Vale do Gavião
+442,Apartamentos,48.0,160000.0,2,1,1,Cidade Jardim
+443,Casas,69.0,155000.0,2,1,1,Santa Maria
+444,Apartamentos,45.0,200000.0,2,1,2,Noivos
+445,Casas,151.0,780000.0,4,1,2,Samapi
+446,Casas,107.0,589325.0,4,4,3,Morros
+448,Apartamentos,71.0,490000.0,3,2,2,Uruguai
+449,Apartamentos,124.0,690000.0,3,2,2,Jóquei
+450,Apartamentos,92.0,560000.0,3,4,1,Fátima
+451,Apartamentos,177.0,1100000.0,4,5,2,Centro
+453,Apartamentos,102.0,250000.0,4,3,2,Campestre
+454,Casas,360.0,2980000.0,5,1,3,Uruguai
+455,Apartamentos,80.0,540000.0,3,3,2,Ininga
+456,Apartamentos,255.0,1800000.0,4,5,3,Horto
+457,Apartamentos,105.0,750000.0,3,2,2,Fátima
+458,Apartamentos,67.0,450000.0,2,1,1,Ilhotas
+459,Casas,220.0,850000.0,3,2,3,Morada do Sol
+460,Casas,120.0,290000.0,2,1,2,Memorare
+461,Apartamentos,52.0,175000.0,2,2,1,Uruguai
+462,Apartamentos,68.0,430000.0,3,2,2,Primavera
+463,Casas,104.0,260000.0,4,2,3,Itararé
+464,Casas,200.0,500000.0,3,2,2,Ininga
+465,Apartamentos,45.0,145000.0,2,1,1,Morros
+466,Casas,243.0,780000.0,4,3,4,São João
+467,Casas,180.0,250000.0,3,3,1,Mocambinho
+468,Casas,300.0,350000.0,3,1,2,Vale Quem Tem
+469,Apartamentos,76.0,375000.0,3,2,2,Morros
+470,Apartamentos,110.0,977139.0,3,4,2,Jóquei
+471,Apartamentos,79.0,290000.0,3,1,1,Vale do Gavião
+472,Apartamentos,50.0,215251.0,2,1,1,Uruguai
+473,Apartamentos,49.0,130000.0,2,1,1,Piçarreira
+474,Apartamentos,68.0,280000.0,3,2,1,Piçarreira
+475,Apartamentos,60.0,275000.0,2,2,1,Uruguai
+476,Apartamentos,153.0,1400000.0,3,4,5,Núcleo Urbano Fazenda Real
+477,Apartamentos,78.0,490000.0,3,3,2,Monte Castelo
+479,Apartamentos,51.0,220000.0,2,1,1,Aeroporto
+480,Apartamentos,40.0,130000.0,2,1,1,Cristo Rei
+481,Apartamentos,49.0,150000.0,2,1,1,Santa Isabel
+482,Apartamentos,136.0,1500000.0,4,5,2,Fátima
+484,Casas,272.0,887000.0,4,5,4,Morada do Sol
+485,Apartamentos,47.0,130000.0,2,1,1,Todos os Santos
+486,Casas,250.0,165000.0,2,2,1,Parque Brasil
+487,Apartamentos,57.0,170000.0,3,1,1,São Cristóvão
+488,Apartamentos,200.0,1280000.0,4,5,4,Jóquei
+489,Casas,120.0,622500.0,4,4,2,Gurupi
+490,Apartamentos,70.0,280000.0,3,2,1,São João
+491,Casas,89.0,432275.0,3,2,2,Gurupi
+492,Casas,63.0,120000.0,3,2,3,Esplanada
+493,Apartamentos,74.0,410000.0,3,2,1,Uruguai
+494,Casas,69.0,160000.0,3,2,1,Verde Lar
+495,Casas,220.0,1150000.0,4,5,4,Morros
+496,Casas,93.0,259000.0,3,3,4,Tabajaras
+497,Casas,430.0,2500000.0,4,5,4,Centro
+498,Apartamentos,205.0,1380000.0,4,4,3,Fátima
+499,Casas,390.0,900000.0,4,3,2,Ininga
+500,Casas,181.0,400000.0,4,2,4,Centro
+501,Casas,328.0,1200000.0,3,5,5,Ininga
+502,Apartamentos,104.0,760000.0,3,3,1,Jóquei
+503,Casas,105.0,315000.0,3,2,5,Vale Quem Tem
+504,Casas,100.0,444900.0,3,3,2,Morros
+505,Apartamentos,50.0,160000.0,2,1,1,Cidade Jardim
+506,Casas,68.0,160000.0,2,1,1,Esplanada
+507,Apartamentos,64.0,220000.0,2,2,1,Uruguai
+508,Apartamentos,86.0,596000.0,3,3,2,Ininga
+509,Apartamentos,46.0,115000.0,2,1,1,Vale do Gavião
+510,Apartamentos,97.0,590000.0,3,3,2,Horto
+511,Apartamentos,65.0,300000.0,3,2,1,Uruguai
+512,Apartamentos,107.0,960000.0,3,3,2,Jóquei
+514,Casas,230.0,485000.0,3,2,2,Gurupi
+515,Casas,66.0,270000.0,3,3,1,Pedra Mole
+516,Casas,70.0,120000.0,3,2,1,Pedra Miúda
+517,Casas,400.0,1250000.0,4,4,2,Núcleo Urbano Fazenda Real
+518,Apartamentos,55.0,155000.0,2,1,1,Renascença
+519,Apartamentos,48.0,150000.0,2,1,1,Cidade Jardim
+520,Apartamentos,77.0,350000.0,3,3,1,Campestre
+522,Apartamentos,78.0,492700.0,3,2,2,São Cristóvão
+523,Apartamentos,68.0,354378.0,3,2,2,Três Andares
+524,Casas,136.0,350000.0,3,2,1,Lourival Parente
+525,Casas,80.0,290000.0,2,2,2,Piçarreira
+526,Apartamentos,73.0,150000.0,1,1,1,Cabral
+527,Apartamentos,130.0,680000.0,2,3,2,Fátima
+528,Casas,160.0,385000.0,3,2,4,Buenos Aires
+529,Apartamentos,59.0,561202.0,1,1,1,Ininga
+530,Casas,130.0,330000.0,3,2,2,Porto do Centro
+531,Casas,170.0,550000.0,4,2,4,Santa Isabel
+532,Apartamentos,58.0,125000.0,2,1,1,Cidade Nova
+533,Casas,57.0,193900.0,2,1,2,Verde Lar
+534,Apartamentos,78.0,498100.0,3,1,2,Monte Castelo
+535,Apartamentos,190.0,1800000.0,3,4,3,Jóquei
+536,Apartamentos,60.0,300000.0,2,2,2,Morros
+537,Apartamentos,43.0,160000.0,2,1,1,Uruguai
+538,Apartamentos,60.0,200000.0,3,2,1,Vale Quem Tem
+539,Apartamentos,99.0,250000.0,3,2,2,Campestre
+540,Casas,175.0,890000.0,4,5,4,Gurupi
+541,Casas,250.0,800000.0,3,4,5,Ininga
+542,Apartamentos,67.0,260000.0,3,2,1,Planalto
+543,Casas,200.0,480000.0,3,3,4,Morada do Sol
+544,Apartamentos,77.0,240000.0,3,3,3,Santa Isabel
+545,Casas,90.0,330000.0,2,1,2,Vale Quem Tem
+546,Apartamentos,76.0,650000.0,3,3,2,Horto
+547,Casas,250.0,500000.0,3,2,3,Itararé
+548,Apartamentos,74.0,355000.0,3,2,1,Santa Isabel
+549,Apartamentos,32.0,288000.0,1,1,1,Horto
+550,Casas,223.0,799000.0,4,5,4,Planalto
+551,Apartamentos,64.0,200000.0,3,2,1,Gurupi
+552,Apartamentos,59.0,215000.0,2,2,1,Uruguai
+553,Casas,240.0,1950000.0,3,2,2,Tabajaras
+555,Casas,186.0,995000.0,4,4,4,Ininga
+556,Apartamentos,54.0,220000.0,2,2,1,São Cristóvão
+557,Casas,85.0,120000.0,2,2,3,Aroeiras
+558,Apartamentos,186.0,1191000.0,4,5,0,Noivos
+559,Casas,140.0,350000.0,3,3,1,Parque Piauí
+561,Apartamentos,74.0,440000.0,3,3,2,Santa Isabel
+562,Casas,343.0,2100000.0,4,4,2,Tabajaras
+565,Apartamentos,46.0,130000.0,2,1,1,Vale do Gavião
+566,Casas,400.0,900000.0,4,5,4,Centro
+567,Apartamentos,52.0,288000.0,2,2,1,São Cristóvão
+568,Casas,100.0,380000.0,3,2,2,Piçarreira
+569,Casas,203.0,255000.0,3,1,2,Gurupi
+570,Apartamentos,200.0,1550000.0,3,5,5,Jóquei
+571,Casas,10.0,220000.0,2,3,2,Bela Vista
+572,Apartamentos,187.0,1320000.0,4,4,3,Noivos
+573,Casas,218.0,800000.0,3,3,3,Horto
+574,Casas,77.0,311000.0,3,2,2,Tabajaras
+575,Apartamentos,68.0,290000.0,3,2,2,Piçarreira
+576,Casas,140.0,690000.0,3,3,4,Recanto das Palmeiras
+577,Apartamentos,127.0,1200000.0,3,3,2,Horto
+578,Casas,225.0,500000.0,3,2,4,São Cristóvão
+579,Apartamentos,76.0,450000.0,3,3,2,São Cristóvão
+580,Apartamentos,75.0,370000.0,3,3,2,São João
+581,Casas,350.0,550000.0,3,4,4,Campestre
+582,Apartamentos,125.0,650000.0,3,3,2,Ilhotas
+583,Apartamentos,50.0,150000.0,2,1,1,Itararé
+584,Apartamentos,62.0,561511.0,1,1,2,Centro
+585,Apartamentos,79.0,750000.0,3,1,2,Jóquei
+586,Apartamentos,98.0,310000.0,3,3,2,Morada do Sol
+587,Apartamentos,75.0,480000.0,3,3,1,Fátima
+588,Casas,200.0,650000.0,3,2,3,Morada do Sol
+589,Apartamentos,190.0,850000.0,3,4,2,Ininga
+590,Casas,270.0,1100000.0,4,5,5,Morros
+591,Casas,76.0,306200.0,3,3,2,Morros
+592,Apartamentos,70.0,380000.0,3,3,1,Ininga
+593,Apartamentos,77.0,330000.0,3,2,1,Horto
+595,Apartamentos,46.0,140000.0,2,1,1,Uruguai
+596,Casas,202.0,2000000.0,3,4,4,Gurupi
+597,Casas,250.0,800000.0,3,4,5,Ininga
+598,Apartamentos,72.0,390000.0,3,2,2,Recanto das Palmeiras
+599,Apartamentos,65.0,175000.0,1,1,1,Piçarreira
+600,Casas,150.0,559000.0,3,1,2,Santa Isabel
+601,Casas,198.0,495000.0,3,3,4,Morros
+602,Apartamentos,244.0,2000000.0,4,5,3,São Cristóvão
+603,Apartamentos,76.0,387000.0,2,1,2,Morros
+604,Apartamentos,57.0,347000.0,2,1,1,Noivos
+605,Apartamentos,77.0,345000.0,3,3,1,Morada do Sol
+606,Apartamentos,118.0,750000.0,3,1,2,Jóquei
+607,Apartamentos,66.0,354800.0,3,2,2,Ilhotas
+608,Casas,300.0,600000.0,3,4,3,Santa Isabel
+609,Apartamentos,104.0,290000.0,3,3,1,Morada do Sol
+610,Casas,88.0,225000.0,3,2,2,Santa Rosa
+611,Casas,260.0,850000.0,3,3,2,Ininga
+612,Apartamentos,64.0,400000.0,3,3,2,Cristo Rei
+613,Casas,400.0,1000000.0,5,4,5,Ininga
+614,Casas,176.0,495000.0,3,3,4,Morros
+615,Casas,177.0,1250000.0,3,3,2,Morros
+616,Apartamentos,190.0,760000.0,2,3,2,Fátima
+617,Apartamentos,60.0,155000.0,2,2,1,Centro
+618,Apartamentos,60.0,300000.0,2,2,1,Morros
+619,Casas,120.0,315000.0,4,4,2,Mocambinho
+620,Apartamentos,210.0,1100000.0,3,4,4,Fátima
+621,Casas,200.0,140000.0,2,1,2,São Sebastião
+622,Apartamentos,105.0,750000.0,3,2,2,Fátima
+623,Casas,113.0,305000.0,3,2,2,Piçarreira
+624,Apartamentos,60.0,230000.0,2,2,1,Campestre
+625,Apartamentos,59.0,226000.0,3,2,1,Vale Quem Tem
+626,Apartamentos,62.0,315000.0,3,2,2,Piçarreira
+627,Casas,130.0,330000.0,3,2,2,Porto do Centro
+628,Apartamentos,141.0,1174400.0,3,4,3,São Cristóvão
+629,Apartamentos,47.0,140000.0,2,1,1,Vale do Gavião
+630,Apartamentos,73.0,270000.0,3,1,1,Cristo Rei
+631,Casas,160.0,160000.0,3,2,1,Vale Quem Tem
+632,Casas,99.0,550000.0,3,1,5,São Pedro
+633,Apartamentos,50.0,135000.0,2,1,1,Vale do Gavião
+634,Apartamentos,227.0,2000000.0,4,4,4,Fátima
+635,Apartamentos,86.0,564990.0,3,4,2,Fátima
+636,Apartamentos,127.0,650000.0,3,3,2,Fátima
+637,Apartamentos,91.0,670000.0,3,2,2,Morada do Sol
+638,Casas,110.0,200000.0,3,1,2,Piçarreira
+639,Casas,196.0,570000.0,5,4,4,Santa Isabel
+640,Apartamentos,48.0,140000.0,2,1,1,Tabajaras
+641,Casas,130.0,330000.0,3,3,2,Porto do Centro
+642,Casas,200.0,1000000.0,3,3,5,Morada do Sol
+643,Casas,149.0,390000.0,3,1,2,Primavera
+644,Casas,58.0,260000.0,2,1,2,Lourival Parente
+645,Apartamentos,100.0,299000.0,3,1,1,Cabral
+646,Apartamentos,141.0,1154000.0,3,4,3,São Cristóvão
+647,Casas,120.0,620000.0,4,4,2,Gurupi
+648,Casas,70.0,350000.0,3,2,2,Gurupi
+649,Casas,90.0,330000.0,2,1,2,Vale Quem Tem
+650,Apartamentos,90.0,468100.0,3,1,2,São Cristóvão
+651,Apartamentos,69.0,326000.0,3,1,2,Morros
+652,Casas,243.0,780000.0,4,4,5,Noivos
+653,Apartamentos,108.0,790000.0,3,4,2,Fátima
+654,Apartamentos,78.0,265000.0,3,3,1,Campestre
+655,Apartamentos,70.0,380000.0,3,2,1,Santa Isabel
+657,Casas,150.0,1000000.0,3,2,3,Morada do Sol
+658,Apartamentos,180.0,2300000.0,4,5,3,São Cristóvão
+659,Apartamentos,80.0,700000.0,3,2,2,Ininga
+660,Casas,243.0,750000.0,4,5,4,Santa Isabel
+661,Apartamentos,47.0,165000.0,2,1,1,Morada do Sol
+662,Casas,113.0,390000.0,3,2,3,Piçarreira
+663,Casas,117.0,250000.0,3,1,1,Centro
+664,Casas,99.0,180000.0,3,1,1,Vale Quem Tem
+665,Apartamentos,60.0,150000.0,3,1,1,Santa Isabel
+666,Casas,253.0,650000.0,5,1,2,Gurupi
+667,Apartamentos,159.0,1300000.0,3,4,3,Jóquei
+668,Casas,280.0,550000.0,3,3,2,Campestre
+670,Casas,156.0,280000.0,4,2,1,Memorare
+671,Casas,440.0,1300000.0,4,5,4,Socopo
+672,Apartamentos,130.0,770000.0,3,2,2,Fátima
+673,Apartamentos,107.0,550000.0,3,2,2,Ininga
+674,Casas,100.0,444900.0,3,3,2,Porto do Centro
+675,Apartamentos,42.0,185000.0,2,1,2,Morada do Sol
+676,Casas,780.0,1000000.0,5,4,2,Recanto das Palmeiras
+677,Apartamentos,145.0,756000.0,3,4,2,Recanto das Palmeiras
+678,Apartamentos,86.0,562990.0,3,3,2,Jóquei
+679,Apartamentos,75.0,290000.0,3,2,1,Piçarreira
+680,Apartamentos,65.0,230000.0,3,2,1,Recanto das Palmeiras
+681,Apartamentos,21.0,248000.0,2,1,0,São Cristóvão
+682,Casas,296.0,950000.0,3,3,3,Morada do Sol
+683,Casas,333.0,1500000.0,4,5,5,Gurupi
+684,Casas,100.0,449900.0,3,3,2,Morros
+685,Apartamentos,303.0,2700000.0,5,5,4,Fátima
+686,Apartamentos,55.0,160000.0,2,2,1,Gurupi
+687,Casas,192.0,650000.0,3,3,2,Ininga
+688,Apartamentos,93.0,580000.0,3,3,2,Jóquei
+689,Apartamentos,49.0,160000.0,2,1,1,Piçarra
+690,Apartamentos,60.0,220000.0,2,2,1,Cristo Rei
+691,Apartamentos,106.0,890000.0,3,3,2,Horto
+692,Casas,140.0,690000.0,4,5,2,Zoobotânico
+693,Apartamentos,94.0,540000.0,3,3,2,Monte Castelo
+695,Apartamentos,53.0,300000.0,2,2,1,São Cristóvão
+696,Apartamentos,55.0,230000.0,2,2,1,Gurupi
+697,Apartamentos,103.0,490000.0,3,2,2,Noivos
+698,Apartamentos,76.0,490000.0,3,2,2,Monte Castelo
+699,Apartamentos,74.0,220000.0,3,2,1,Monte Castelo
+700,Apartamentos,62.0,329500.0,3,1,1,Nossa Senhora das Graças
+701,Apartamentos,94.0,250000.0,3,3,1,Piçarra
+702,Casas,180.0,750000.0,4,4,5,São Cristóvão
+703,Casas,311.0,700000.0,4,4,2,Gurupi
+704,Casas,110.0,280000.0,3,2,3,Centro
+705,Apartamentos,50.0,245000.0,2,2,1,Uruguai
+706,Apartamentos,130.0,1115066.0,3,3,2,Jóquei
+707,Casas,76.0,274600.0,3,3,2,Morros
+708,Apartamentos,78.0,534300.0,3,3,2,Fátima
+709,Casas,200.0,550000.0,4,3,3,João XXIII
+710,Casas,600.0,2200000.0,5,5,5,Jóquei
+711,Apartamentos,67.0,343902.0,3,2,1,Primavera
+712,Casas,150.0,350000.0,3,2,2,Novo Horizonte
+713,Apartamentos,66.0,315000.0,3,1,1,Gurupi
+715,Apartamentos,100.0,260000.0,4,3,2,Campestre
+716,Apartamentos,49.0,125000.0,2,2,1,Colorado
+837,Casas,320.0,1100000.0,4,4,2,Mocambinho
+838,Casas,180.0,1050000.0,4,4,2,Horto
+839,Casas,384.0,380000.0,4,4,3,Santa Isabel
+840,Casas,250.0,1650000.0,4,3,2,Uruguai
+841,Casas,245.0,2100000.0,4,4,2,Uruguai
+843,Casas,600.0,2980000.0,5,5,4,Uruguai
+844,Casas,137.0,460000.0,3,2,2,Gurupi
+845,Apartamentos,74.0,470000.0,3,2,1,Santa Isabel
+846,Casas,137.0,860000.0,4,5,3,Morros
+847,Casas,600.0,2980000.0,5,5,4,Uruguai
+848,Apartamentos,86.0,562990.0,3,1,2,Fátima
+849,Apartamentos,284.0,1300000.0,5,5,5,Recanto das Palmeiras
+850,Casas,358.0,2980000.0,5,5,4,Novo Uruguai
+851,Casas,322.0,1299000.0,4,4,5,Ininga
+852,Casas,220.0,280000.0,4,3,2,Santa Cruz
+853,Casas,137.0,860000.0,4,5,3,Morros
+854,Casas,322.0,1299000.0,4,4,5,Ininga
+855,Casas,226.0,750000.0,4,5,5,Fátima
+856,Casas,200.0,870000.0,4,5,5,Ininga
+857,Apartamentos,59.0,350000.0,2,2,2,Recanto das Palmeiras
+858,Apartamentos,97.0,210000.0,2,2,1,São Sebastião
+859,Apartamentos,57.0,320000.0,2,2,1,Noivos
+860,Apartamentos,74.0,220000.0,3,2,1,Cristo Rei
+861,Apartamentos,52.0,175000.0,2,2,1,Uruguai
+862,Casas,396.0,450000.0,3,1,4,Piçarreira
+863,Casas,246.0,1500000.0,3,4,4,Uruguai
+864,Apartamentos,72.0,375000.0,3,1,2,Morros
+865,Casas,125.0,395000.0,3,2,2,Gurupi
+866,Apartamentos,48.0,160000.0,2,1,1,Cidade Jardim
+867,Apartamentos,55.0,220000.0,2,1,1,São Cristóvão
+868,Casas,200.0,930000.0,3,1,5,Fátima
+871,Apartamentos,90.0,230000.0,3,3,1,Piçarra
+872,Casas,246.0,1500000.0,3,4,4,Uruguai
+873,Apartamentos,55.0,210000.0,2,1,1,Piçarreira
+874,Apartamentos,59.0,332844.0,3,2,2,Jóquei
+875,Casas,48.0,135000.0,2,1,0,Tabajaras
+876,Casas,160.0,200000.0,3,1,1,Porto do Centro
+878,Casas,287.0,850000.0,5,5,4,São João
+879,Casas,70.0,190000.0,3,1,1,Cidade Jardim
+880,Casas,287.0,850000.0,5,5,4,São João
+881,Casas,100.0,437800.0,3,1,2,Gurupi
+882,Apartamentos,59.0,230000.0,3,1,2,Santa Lia
+883,Casas,210.0,1450000.0,4,4,2,Uruguai
+884,Apartamentos,86.0,225000.0,3,2,1,Morada do Sol
+885,Apartamentos,42.0,130000.0,2,1,1,Santa Lia
+886,Casas,75.0,150000.0,3,1,2,Vale Quem Tem
+887,Casas,95.0,250000.0,3,3,2,Vale Quem Tem
+888,Apartamentos,70.0,300000.0,2,2,1,Ininga
+889,Apartamentos,49.0,140000.0,2,2,1,Vale do Gavião
+890,Apartamentos,92.0,444900.0,3,4,2,Morros
+891,Apartamentos,56.0,275181.0,2,2,2,Uruguai
+892,Apartamentos,38.0,175000.0,2,1,1,Gurupi
+893,Casas,236.0,1490000.0,4,1,2,Uruguai
+894,Casas,65.0,190000.0,2,2,3,Centro
+895,Casas,178.0,495000.0,3,4,4,Morros
+896,Casas,100.0,385000.0,3,2,1,Primavera
+897,Apartamentos,59.0,165000.0,2,1,1,Parque Ideal
+898,Apartamentos,70.0,200000.0,3,2,1,Cristo Rei
+899,Apartamentos,101.0,350000.0,3,2,1,Jóquei
+900,Apartamentos,72.0,390000.0,3,2,2,Horto
+902,Apartamentos,72.0,350000.0,3,3,1,Horto
+903,Apartamentos,67.0,300000.0,2,1,1,Santa Isabel
+904,Apartamentos,49.0,138000.0,2,1,1,Itararé
+905,Apartamentos,77.0,390000.0,2,2,2,Noivos
+906,Casas,200.0,850000.0,4,4,2,Santa Isabel
+907,Casas,182.0,1300000.0,3,3,4,Uruguai
+908,Apartamentos,160.0,1600000.0,3,4,3,Jóquei
+909,Apartamentos,160.0,1600000.0,3,4,2,Jóquei
+910,Apartamentos,76.0,630000.0,3,3,2,Horto
+911,Casas,200.0,640000.0,3,2,3,Santa Isabel
+912,Casas,200.0,850000.0,4,4,2,Santa Isabel
+913,Apartamentos,190.0,850000.0,3,3,2,Horto
+914,Casas,200.0,650000.0,4,2,3,Morada do Sol
+915,Apartamentos,280.0,1250000.0,4,4,5,Ininga
+916,Apartamentos,190.0,850000.0,3,1,2,Ininga
+917,Casas,280.0,1250000.0,4,4,5,Ininga
+918,Casas,180.0,750000.0,4,4,2,Morros
+921,Casas,182.0,980000.0,4,4,2,Horto
+922,Apartamentos,60.0,210000.0,2,1,1,Cristo Rei
+923,Casas,240.0,750000.0,4,4,5,Morada do Sol
+924,Casas,182.0,980000.0,4,4,2,Horto
+925,Casas,240.0,750000.0,4,4,5,Morada do Sol
+926,Casas,520.0,2400000.0,3,3,4,Uruguai
+927,Casas,235.0,1500000.0,4,4,2,Uruguai
+928,Apartamentos,145.0,1190000.0,4,3,3,Jóquei
+930,Casas,175.0,890000.0,4,1,4,Gurupi
+931,Apartamentos,74.0,470000.0,3,2,1,Santa Isabel
+932,Casas,500.0,550000.0,4,1,5,Primavera
+933,Casas,105.0,500000.0,3,3,2,Parque São João
+934,Apartamentos,126.0,750000.0,3,3,2,Jóquei
+935,Apartamentos,62.0,350000.0,2,2,1,Fátima
+936,Apartamentos,130.0,1359199.0,4,5,2,Fátima
+937,Apartamentos,210.0,1000000.0,3,4,4,Fátima
+938,Apartamentos,77.0,280000.0,3,3,1,Horto
+939,Casas,80.0,170000.0,2,2,3,João XXIII
+940,Apartamentos,51.0,220000.0,2,1,1,Aeroporto
+941,Casas,480.0,600000.0,5,5,0,Bela Vista
+942,Casas,200.0,375000.0,4,1,3,Alto Alegre
+943,Casas,300.0,1100000.0,3,3,2,Ininga
+944,Apartamentos,42.0,145000.0,2,1,1,Morada do Sol
+945,Apartamentos,80.0,720000.0,3,2,2,Ininga
+946,Apartamentos,78.0,468000.0,3,2,2,São Cristóvão
+947,Apartamentos,80.0,240000.0,3,2,1,Santa Isabel
+948,Casas,261.0,2300000.0,4,4,2,Uruguai
+949,Casas,165.0,1150000.0,4,4,2,Horto
+950,Apartamentos,51.0,120000.0,2,2,1,Colorado
+951,Apartamentos,69.0,280000.0,3,2,2,Morros
+952,Apartamentos,48.0,170000.0,2,1,1,Uruguai
+953,Apartamentos,300.0,2300000.0,5,5,4,Cabral
+954,Casas,159.0,330000.0,3,2,2,Parque Piauí
+955,Casas,100.0,600000.0,2,2,2,Planalto
+957,Apartamentos,97.0,270000.0,3,2,1,Ilhotas
+958,Apartamentos,304.0,2507000.0,5,5,4,Jóquei
+959,Apartamentos,62.0,285000.0,3,1,1,Gurupi
+960,Apartamentos,45.0,135000.0,2,1,1,Livramento
+961,Apartamentos,46.0,155000.0,2,1,1,Morada do Sol
+962,Apartamentos,83.0,250000.0,3,3,1,São Cristóvão
+964,Apartamentos,69.0,295000.0,3,2,1,Ininga
+965,Apartamentos,80.0,700000.0,2,3,2,Fátima
+966,Apartamentos,81.0,440000.0,3,3,2,Horto
+967,Apartamentos,58.0,254224.0,3,1,1,Zoobotânico
+969,Apartamentos,74.0,290000.0,3,2,2,Morros
+970,Apartamentos,90.0,458000.0,3,3,2,São Cristóvão
+971,Casas,240.0,1950000.0,4,3,2,Tabajaras
+972,Casas,110.0,280000.0,3,2,3,Centro
+973,Apartamentos,50.0,245000.0,2,2,1,Uruguai
+974,Apartamentos,130.0,1115066.0,3,3,2,Jóquei
+975,Casas,76.0,274600.0,3,3,2,Morros
+976,Apartamentos,78.0,534300.0,3,3,2,Fátima
+977,Casas,200.0,550000.0,4,3,3,João XXIII
+978,Apartamentos,50.0,240000.0,2,2,1,Uruguai
+979,Casas,107.0,589325.0,3,4,3,Morros
+980,Apartamentos,60.0,300000.0,2,1,1,Santa Isabel
+981,Apartamentos,78.0,460000.0,3,3,2,Horto
+982,Apartamentos,67.0,310000.0,3,1,1,Gurupi
+983,Apartamentos,62.0,250000.0,3,1,1,Uruguai
+984,Casas,105.0,400000.0,3,2,2,Gurupi
+985,Apartamentos,59.0,185000.0,3,1,1,Tancredo Neves
+986,Casas,233.0,720000.0,3,3,4,Ilhotas
+987,Apartamentos,67.0,280000.0,3,1,1,Noivos
+989,Casas,151.0,750000.0,4,4,2,Gurupi
+990,Casas,207.0,380000.0,4,3,2,Centro
+991,Casas,316.0,2600000.0,5,5,4,Gurupi
+992,Casas,140.0,800000.0,4,5,2,Zoobotânico
+993,Casas,400.0,480000.0,3,2,3,Centro
+994,Apartamentos,105.0,650000.0,3,3,2,Horto
+995,Apartamentos,107.0,860000.0,3,3,2,Jóquei
+997,Apartamentos,74.0,355000.0,3,2,1,Santa Isabel
+998,Apartamentos,59.0,325000.0,2,2,2,Recanto das Palmeiras
+1000,Apartamentos,130.0,1048029.0,3,3,2,Fátima
+1001,Apartamentos,62.0,200000.0,3,1,1,Parque Ideal
+1002,Casas,135.0,240000.0,3,2,2,Buenos Aires
+1003,Apartamentos,60.0,336890.0,2,1,1,Fátima
+1004,Casas,205.0,1400000.0,4,4,2,Uruguai
+1005,Apartamentos,80.0,560000.0,3,2,2,Ininga
+1006,Apartamentos,56.0,145000.0,3,1,1,Aeroporto
+1007,Casas,179.0,649990.0,3,2,3,Morada do Sol
+1008,Apartamentos,62.0,278100.0,3,3,2,Nossa Senhora das Graças
+1009,Apartamentos,161.0,800000.0,3,3,2,Frei Serafim
+1010,Apartamentos,228.0,1900000.0,4,4,2,Jóquei
+1011,Casas,113.0,215000.0,3,2,2,Promorar
+1012,Apartamentos,56.0,239477.0,2,2,1,Uruguai
+1013,Apartamentos,77.0,439000.0,2,2,2,Noivos
+1014,Casas,222.0,1500000.0,4,4,3,São Cristóvão
+1015,Apartamentos,225.0,2479400.0,4,5,4,Ininga
+1016,Casas,239.0,1700000.0,4,4,4,Tabajaras
+1017,Casas,176.0,780000.0,4,4,2,Morros
+1018,Casas,650.0,1750000.0,5,3,5,Centro
+1019,Apartamentos,81.0,220000.0,3,2,1,Noivos
+1020,Casas,280.0,1400000.0,4,4,5,Ininga
+1021,Casas,215.0,450000.0,4,2,4,Acarape
+1022,Apartamentos,66.0,357416.0,3,1,1,Cabral
+1023,Apartamentos,78.0,200000.0,3,2,1,Tabuleta
+1024,Casas,258.0,750000.0,5,5,3,Santa Isabel
+1025,Casas,76.0,274600.0,3,3,2,Morros
+1026,Apartamentos,62.0,230000.0,3,2,1,Parque Ideal
+1027,Apartamentos,65.0,255000.0,3,2,2,São João
+1028,Casas,151.0,807000.0,5,5,3,Samapi
+1029,Casas,280.0,1400000.0,5,4,5,Ininga
+1030,Apartamentos,70.0,300000.0,3,2,1,Gurupi
+1031,Apartamentos,74.0,440000.0,3,3,1,Santa Isabel
+1032,Apartamentos,119.0,600000.0,4,4,2,Fátima
+1033,Apartamentos,308.0,2000000.0,5,5,4,Jóquei
+1034,Apartamentos,225.0,2163000.0,4,5,4,Jóquei
+1035,Apartamentos,296.0,2200000.0,4,5,3,Fátima
+1036,Casas,120.0,485000.0,4,2,2,Gurupi
+1037,Apartamentos,190.0,850000.0,3,3,2,Ininga
+1038,Casas,92.0,278000.0,3,2,2,Bela Vista
+1039,Casas,464.0,950000.0,4,2,5,Jóquei
+1041,Apartamentos,107.0,931164.0,3,4,2,Jóquei
+1042,Casas,99.0,190000.0,3,2,2,Comprida
+1044,Apartamentos,141.0,1174400.0,3,3,3,São Cristóvão
+1045,Apartamentos,62.0,190000.0,2,2,1,Cristo Rei
+1046,Apartamentos,190.0,850000.0,3,1,2,Ininga
+1047,Apartamentos,92.0,740000.0,3,1,2,Morada do Sol
+1048,Apartamentos,65.0,410000.0,1,2,1,Fátima
+1049,Casas,250.0,1750000.0,4,4,3,Uruguai
+1050,Casas,129.0,450000.0,3,2,2,Aeroporto
+1051,Casas,200.0,190000.0,3,2,2,Vale Quem Tem
+1052,Casas,148.0,900000.0,4,4,4,Ininga
+1053,Apartamentos,60.0,327000.0,3,2,1,Recanto das Palmeiras
+1055,Apartamentos,76.0,370000.0,3,2,2,Morros
+1056,Casas,103.0,290000.0,3,2,4,Renascença
+1057,Apartamentos,130.0,1000000.0,3,3,2,Fátima
+1058,Apartamentos,200.0,1500000.0,3,3,2,Jóquei
+1059,Apartamentos,60.0,235000.0,3,3,1,Santa Isabel
+1060,Apartamentos,118.0,590990.0,3,1,3,Recanto das Palmeiras
+1061,Apartamentos,55.0,240000.0,2,1,1,Aeroporto
+1062,Apartamentos,82.0,300000.0,3,3,1,Noivos
+1063,Apartamentos,59.0,230000.0,2,2,1,Uruguai
+1064,Apartamentos,190.0,850000.0,3,5,2,Ininga
+1066,Casas,300.0,900000.0,4,5,3,São Cristóvão
+1067,Casas,128.0,423500.0,3,2,2,Centro
+1068,Casas,246.0,1500000.0,4,5,2,Uruguai
+1069,Apartamentos,63.0,347271.0,3,3,1,Ilhotas
+1070,Casas,162.0,850000.0,4,4,5,Santa Isabel
+1071,Casas,104.0,530000.0,4,5,2,Pedra Mole
+1074,Apartamentos,106.0,750000.0,3,4,2,Noivos
+1076,Apartamentos,51.0,211700.0,2,2,1,Uruguai
+1077,Apartamentos,58.0,130000.0,2,1,1,Campestre
+1078,Apartamentos,224.0,1650000.0,4,4,3,Jóquei
+1079,Casas,120.0,620000.0,4,4,2,Gurupi
+1080,Apartamentos,67.0,185000.0,2,2,1,São Sebastião
+1081,Apartamentos,83.0,630000.0,2,3,2,São Cristóvão
+1082,Apartamentos,68.0,255000.0,3,2,1,São João
+1083,Casas,180.0,900000.0,4,1,2,Gurupi
+1084,Casas,89.0,250000.0,3,2,2,São Sebastião
+1085,Apartamentos,65.0,250000.0,3,1,2,Uruguai
+1086,Casas,173.0,330000.0,5,2,2,Três Andares
+1088,Apartamentos,45.0,188554.0,2,1,1,Porto do Centro
+1089,Apartamentos,50.0,150000.0,2,1,1,Uruguai
+1090,Casas,88.0,115000.0,3,2,0,Angelim
+1091,Casas,209.0,570000.0,4,5,4,Satélite
+1092,Apartamentos,86.0,562990.0,3,4,2,Jóquei
+1093,Casas,300.0,1300000.0,4,5,5,Gurupi
+1094,Apartamentos,102.0,240000.0,4,3,1,Campestre
+1095,Casas,231.0,600000.0,3,4,2,Gurupi
+1096,Casas,180.0,1100000.0,3,2,2,Marquês
+1097,Casas,139.0,650000.0,4,2,2,Morada do Sol
+1098,Casas,77.0,670000.0,2,1,2,Lourival Parente
+1099,Casas,100.0,180000.0,2,1,3,Mocambinho
+1100,Casas,200.0,140000.0,2,1,1,Vale Quem Tem
+1101,Casas,156.0,600000.0,4,2,2,São Cristóvão
+1102,Casas,90.0,500000.0,3,1,2,Piçarra
+1103,Casas,133.0,300000.0,3,2,2,Marquês
+1104,Casas,67.0,510000.0,2,1,1,Piçarreira
+1105,Apartamentos,64.0,230000.0,2,1,1,Uruguai
+1106,Apartamentos,71.0,260000.0,3,1,1,Noivos
+1107,Apartamentos,77.0,280000.0,3,1,1,Campestre
+1108,Apartamentos,45.0,135000.0,2,1,1,Vale do Gavião
+1109,Apartamentos,76.0,370000.0,3,3,2,Jóquei
+1110,Apartamentos,92.0,220000.0,2,1,2,Centro
+1111,Apartamentos,100.0,550000.0,4,1,2,Centro
+1112,Casas,300.0,170000.0,2,1,1,Vale Quem Tem
+1113,Casas,390.0,850000.0,3,1,3,Ininga
+1114,Casas,210.0,122900.0,2,1,1,Angelim
+1115,Apartamentos,70.0,280000.0,2,1,1,Jóquei
+1116,Casas,322.0,200000.0,1,1,3,Buenos Aires
+1117,Apartamentos,68.0,320000.0,3,1,1,Planalto
+1118,Apartamentos,55.0,300000.0,1,1,1,Jóquei
+1119,Casas,600.0,750000.0,4,2,2,Ininga
+1120,Apartamentos,81.0,310000.0,2,2,2,Jóquei
+1121,Apartamentos,51.0,200000.0,2,2,2,Vale Quem Tem
+1122,Apartamentos,65.0,140000.0,2,2,1,Cristo Rei
+1123,Apartamentos,250.0,200000.0,3,1,2,Cristo Rei
+1124,Apartamentos,48.0,160000.0,2,1,1,Santa Isabel
+1125,Casas,105.0,330000.0,3,2,4,Vale Quem Tem
+1126,Apartamentos,75.0,355000.0,3,1,2,Santa Isabel
+1127,Casas,99.0,170000.0,2,1,2,Piçarreira
+1128,Casas,414.0,850000.0,3,3,3,Campestre
+1129,Apartamentos,65.0,190000.0,3,1,1,Uruguai
+1130,Apartamentos,97.0,270000.0,2,1,2,Campestre
+1131,Apartamentos,50.0,135000.0,2,1,1,Vale do Gavião
+1132,Apartamentos,72.0,390000.0,3,1,2,São João
+1133,Casas,162.0,650000.0,3,2,4,Acarape
+1134,Apartamentos,60.0,260000.0,3,2,1,Uruguai
+1135,Casas,120.0,250000.0,3,1,2,Mafuá
+1137,Apartamentos,190.0,850000.0,3,4,2,Ininga
+1138,Apartamentos,206.0,1380000.0,4,4,3,Fátima
+1139,Apartamentos,74.0,470000.0,2,2,1,Santa Isabel
+1140,Apartamentos,74.0,215000.0,3,2,1,Gurupi
+1141,Apartamentos,89.0,260000.0,3,3,1,Santa Isabel
+1142,Casas,186.0,850000.0,4,5,3,Ininga
+1143,Casas,129.0,395000.0,3,2,2,Vale Quem Tem
+1145,Casas,93.0,359000.0,3,3,1,Pedra Mole
+1146,Casas,140.0,750000.0,4,4,2,Zoobotânico
+1147,Casas,239.0,1700000.0,4,5,4,Tabajaras
+1148,Apartamentos,264.0,2545000.0,4,5,3,Jóquei
+1149,Casas,200.0,600000.0,4,3,3,Recanto das Palmeiras
+1150,Apartamentos,120.0,587000.0,3,1,2,Ininga
+1151,Apartamentos,54.0,170000.0,1,1,1,Piçarreira
+1152,Casas,200.0,850000.0,4,1,2,Santa Isabel
+1153,Apartamentos,78.0,460000.0,3,2,2,São Cristóvão
+1154,Casas,186.0,600000.0,2,1,2,Centro
+1155,Apartamentos,60.0,320000.0,3,2,1,São Cristóvão
+1156,Apartamentos,113.0,280000.0,3,3,1,Marquês
+1158,Casas,222.0,700000.0,5,5,4,Planalto
+1159,Apartamentos,80.0,240000.0,3,2,1,Santa Isabel
+1160,Casas,428.0,960000.0,3,3,2,Centro
+1161,Apartamentos,63.0,180000.0,3,1,1,Todos os Santos
+1162,Casas,228.0,1600000.0,4,4,2,Uruguai
+1163,Apartamentos,65.0,220000.0,2,1,1,Santa Isabel
+1164,Casas,240.0,230000.0,3,2,3,Vale Quem Tem
+1165,Apartamentos,46.0,130000.0,2,1,1,Vale do Gavião
+1166,Casas,52.0,169900.0,2,1,2,Portal da Alegria
+1167,Casas,450.0,800000.0,3,1,5,Horto
+1168,Casas,160.0,680000.0,4,1,2,Morros
+1169,Casas,374.0,1600000.0,4,4,2,Fátima
+1170,Casas,160.0,680000.0,4,1,2,Morros
+1171,Casas,500.0,280000.0,1,1,2,Aeroporto
+1172,Apartamentos,47.0,110000.0,2,1,1,Itararé
+1173,Apartamentos,40.0,115000.0,2,1,1,Tancredo Neves
+1174,Casas,150.0,330000.0,4,1,1,Tabuleta
+1175,Casas,115.0,354000.0,3,1,4,Vale Quem Tem
+1176,Casas,253.0,350000.0,3,1,2,Monte Castelo
+1177,Casas,200.0,200000.0,2,1,2,Vale Quem Tem
+1178,Casas,160.0,280000.0,3,1,1,Vale Quem Tem
+1179,Casas,60.0,200000.0,2,1,2,Monte Castelo
+1180,Apartamentos,75.0,240000.0,3,2,1,Cristo Rei
+1181,Casas,300.0,230000.0,3,1,2,Bela Vista
+1182,Apartamentos,159.0,1300000.0,3,4,3,Jóquei
+1183,Apartamentos,45.0,120000.0,2,1,2,Vale Quem Tem
+1184,Casas,62.0,190000.0,3,1,2,Vale Quem Tem
+1185,Apartamentos,65.0,410000.0,1,1,1,Fátima
+1186,Apartamentos,73.0,220000.0,3,1,1,Ilhotas
+1187,Casas,105.0,315000.0,3,2,5,Vale Quem Tem
+1188,Apartamentos,77.0,260000.0,3,1,1,Campestre
+1189,Apartamentos,65.0,350000.0,3,2,2,Cristo Rei
+1190,Apartamentos,65.0,265000.0,3,1,1,Piçarreira
+1191,Apartamentos,51.0,180000.0,2,2,1,Uruguai
+1192,Apartamentos,49.0,150000.0,2,1,1,Aeroporto
+1193,Casas,300.0,450000.0,4,1,4,Vermelha
+1194,Apartamentos,44.0,128000.0,2,1,2,Primavera
+1195,Casas,300.0,550000.0,3,2,2,Fátima
+1196,Apartamentos,46.0,120000.0,2,1,1,Vale do Gavião
+1197,Apartamentos,76.0,239000.0,1,3,1,Horto
+1198,Casas,789.0,900000.0,4,1,3,Morada do Sol
+1199,Casas,100.0,169000.0,2,2,1,Vale do Gavião
+1200,Apartamentos,58.0,272200.0,2,2,2,Aeroporto
+1201,Apartamentos,46.0,130000.0,2,1,1,Vale do Gavião
+1202,Casas,213.0,1650000.0,3,3,2,Tabajaras
+1203,Apartamentos,75.0,374900.0,3,2,2,Santa Isabel
+1204,Apartamentos,65.0,230000.0,3,2,1,Uruguai
+1205,Apartamentos,160.0,690000.0,3,1,1,Frei Serafim
+1207,Casas,132.0,550000.0,3,3,4,Zoobotânico
+1208,Apartamentos,51.0,450000.0,1,1,1,Fátima
+1209,Apartamentos,75.0,290000.0,3,2,1,Piçarreira
+1210,Casas,520.0,2400000.0,3,3,4,Uruguai
+1211,Casas,180.0,740000.0,4,4,2,Morros
+1212,Apartamentos,73.0,450000.0,3,2,2,Ininga
+1213,Apartamentos,100.0,575000.0,3,4,3,Horto
+1215,Apartamentos,341.0,2500000.0,4,4,3,Jóquei
+1216,Apartamentos,106.0,850000.0,3,4,2,Horto
+1217,Apartamentos,99.0,220000.0,2,2,1,Santa Isabel
+1218,Apartamentos,48.0,140000.0,2,1,1,Cidade Nova
+1219,Apartamentos,69.0,230000.0,3,2,1,Cristo Rei
+1220,Apartamentos,59.0,230000.0,3,2,1,Santa Lia
+1221,Apartamentos,69.0,365000.0,3,3,2,Recanto das Palmeiras
+1222,Apartamentos,41.0,353154.0,1,1,1,Fátima
+1223,Apartamentos,71.0,319245.0,3,2,2,Uruguai
+1224,Apartamentos,55.0,165000.0,2,1,1,Gurupi
+1225,Casas,230.0,260000.0,5,5,2,Monte Castelo
+1226,Casas,244.0,2300000.0,5,5,4,Centro
+1227,Apartamentos,127.0,1211282.0,3,4,3,Jóquei
+1228,Casas,89.0,180000.0,3,1,2,Vale Quem Tem
+1229,Casas,77.0,289000.0,3,2,2,Aroeiras
+1230,Apartamentos,59.0,226000.0,3,2,1,Vale Quem Tem
+1231,Apartamentos,76.0,430000.0,3,1,2,Noivos
+1232,Apartamentos,76.0,570000.0,2,1,2,Horto
+1233,Apartamentos,60.0,239000.0,2,1,1,Santa Lia
+1234,Apartamentos,76.0,390000.0,1,1,1,Jóquei
+1235,Apartamentos,133.0,780000.0,3,1,2,Fátima
+1236,Apartamentos,64.0,170000.0,3,2,1,Campestre
+1237,Casas,675.0,1200000.0,3,2,4,Centro
+1238,Apartamentos,77.0,250000.0,3,2,1,Santa Isabel
+1239,Casas,200.0,200000.0,3,1,2,Três Andares
+1240,Apartamentos,50.0,160000.0,2,2,1,Gurupi
+1241,Apartamentos,88.0,450000.0,3,2,2,Santa Isabel
+1242,Apartamentos,85.0,300000.0,3,1,2,Horto
+1243,Apartamentos,75.0,330000.0,2,2,1,São Cristóvão
+1244,Casas,567.0,570000.0,3,1,3,Morada do Sol
+1245,Apartamentos,119.0,600000.0,3,3,2,Fátima
+1246,Casas,163.0,250000.0,3,2,2,Parque Piauí
+1247,Apartamentos,69.0,190000.0,3,1,1,Zoobotânico
+1248,Casas,408.0,880000.0,5,1,4,Centro
+1249,Apartamentos,67.0,280000.0,3,1,1,Planalto
+1250,Casas,89.0,443780.0,3,2,2,Gurupi
+1251,Apartamentos,65.0,185000.0,3,1,1,Uruguai
+1252,Apartamentos,45.0,130000.0,2,1,1,Centro
+1253,Casas,396.0,800000.0,4,2,3,Planalto
+1254,Apartamentos,74.0,295000.0,3,2,1,Santa Isabel
+1255,Apartamentos,73.0,300000.0,3,2,1,Horto
+1256,Casas,400.0,600000.0,3,3,4,Centro
+1257,Apartamentos,76.0,350000.0,3,3,2,Jóquei
+1258,Casas,250.0,250000.0,2,2,1,Aeroporto
+1259,Apartamentos,74.0,220000.0,3,1,1,Ininga
+1260,Casas,200.0,350000.0,2,1,2,Vale Quem Tem
+1261,Apartamentos,47.0,130000.0,2,1,1,Morros
+1262,Casas,300.0,180000.0,3,1,2,Portal da Alegria
+1263,Casas,200.0,180000.0,3,1,1,Vale Quem Tem
+1264,Apartamentos,105.0,700000.0,3,2,2,Fátima
+1265,Apartamentos,67.0,450000.0,3,2,2,Jóquei
+1266,Casas,315.0,460000.0,2,1,2,São João
+1267,Casas,200.0,180000.0,2,2,1,Santa Maria
+1268,Casas,500.0,450000.0,4,2,2,Horto
+1269,Apartamentos,48.0,135000.0,2,1,1,Cidade Jardim
+1270,Apartamentos,45.0,170000.0,2,1,1,Vale Quem Tem
+1271,Apartamentos,80.0,770000.0,2,2,2,Fátima
+1272,Apartamentos,92.0,260000.0,3,2,2,Jóquei
+1273,Apartamentos,172.0,670000.0,3,1,1,Frei Serafim
+1274,Apartamentos,89.0,180000.0,3,1,1,São Cristóvão
+1275,Apartamentos,50.0,160000.0,2,1,1,Gurupi
+1276,Casas,200.0,400000.0,4,1,3,Vale Quem Tem
+1277,Casas,390.0,500000.0,3,1,5,Santa Isabel
+1279,Apartamentos,80.0,260000.0,3,1,1,Santa Isabel
+1280,Apartamentos,115.0,265000.0,3,3,1,Horto
+1281,Apartamentos,200.0,2100000.0,4,4,3,Fátima
+1282,Apartamentos,59.0,327644.0,3,2,1,São Cristóvão
+1284,Casas,300.0,450000.0,4,4,5,Tabuleta
+1285,Casas,193.0,700000.0,3,4,5,Horto
+1286,Casas,400.0,630000.0,4,5,4,São Cristóvão
+1287,Casas,152.0,780000.0,4,4,2,Socopo
+1288,Apartamentos,62.0,300000.0,3,2,1,Recanto das Palmeiras
+1289,Apartamentos,73.0,180000.0,3,2,2,Ilhotas
+1290,Apartamentos,46.0,130000.0,2,1,1,Centro
+1291,Apartamentos,32.0,288000.0,1,1,1,Horto
+1292,Casas,520.0,2400000.0,3,3,4,Uruguai
+1293,Casas,277.0,880000.0,2,3,2,Lourival Parente
+1295,Casas,250.0,1200000.0,3,1,1,Centro
+1296,Apartamentos,64.0,280000.0,3,1,1,Gurupi
+1297,Apartamentos,52.0,220000.0,2,2,1,Uruguai
+1298,Apartamentos,47.0,140000.0,2,1,1,Satélite
+1299,Casas,143.0,400000.0,3,1,2,Vale Quem Tem
+1300,Casas,384.0,450000.0,3,1,3,Vila Operária
+1301,Casas,76.0,420000.0,2,3,2,Morada Nova
+1302,Apartamentos,67.0,420000.0,3,3,2,Fátima
+1303,Apartamentos,69.0,310000.0,3,2,1,Gurupi
+1304,Apartamentos,80.0,250000.0,3,3,2,São Cristóvão
+1305,Apartamentos,37.0,185490.0,2,1,1,Uruguai
+1306,Casas,250.0,300000.0,5,4,1,Vale Quem Tem
+1307,Apartamentos,50.0,140000.0,2,2,1,Parque Sul
+1308,Casas,200.0,190000.0,4,1,1,Bela Vista
+1309,Casas,450.0,1200000.0,3,2,4,São Cristóvão
+1310,Apartamentos,74.0,440000.0,3,2,1,Santa Isabel
+1311,Apartamentos,65.0,300000.0,3,3,1,Uruguai
+1312,Apartamentos,46.0,135673.0,2,1,1,Morros
+1313,Apartamentos,151.0,340000.0,3,1,1,São Cristóvão
+1314,Apartamentos,126.0,720000.0,3,1,2,Fátima
+1315,Casas,429.0,500000.0,3,1,4,Santa Isabel
+1316,Apartamentos,67.0,290000.0,2,1,1,Fátima
+1317,Apartamentos,227.0,2300000.0,4,1,1,Jóquei
+1318,Apartamentos,103.0,300000.0,3,1,1,Parque Poti
+1319,Apartamentos,50.0,110000.0,2,1,1,Parque Ideal
+1320,Casas,183.0,1000000.0,4,1,1,Ininga
+1321,Apartamentos,200.0,1260000.0,4,1,4,Jóquei
+1322,Apartamentos,145.0,800000.0,3,3,2,Recanto das Palmeiras
+1323,Apartamentos,55.0,250000.0,2,2,1,Cristo Rei
+1324,Apartamentos,66.0,260000.0,3,2,2,Centro
+1325,Apartamentos,59.0,350000.0,2,1,1,Horto
+1326,Casas,170.0,450000.0,3,3,3,Saci
+1327,Apartamentos,77.0,270000.0,3,3,1,Campestre
+1328,Apartamentos,48.0,140000.0,2,1,1,Santa Maria
+1329,Casas,229.0,1350000.0,3,2,3,Uruguai
+1330,Casas,402.0,1500000.0,5,5,5,Fátima
+1331,Apartamentos,127.0,1200000.0,3,1,2,Fátima
+1333,Apartamentos,73.0,230000.0,3,2,1,Piçarreira
+1334,Apartamentos,187.0,1207000.0,4,3,3,Noivos
+1335,Casas,200.0,590000.0,4,3,4,Satélite
+1336,Apartamentos,70.0,170000.0,3,2,1,Santa Luzia
+1337,Casas,160.0,310000.0,3,2,2,Mocambinho
+1338,Casas,352.0,680000.0,4,5,5,Centro
+1339,Apartamentos,73.0,390000.0,3,2,2,Triunfo
+1340,Apartamentos,127.0,1150000.0,3,3,2,Fátima
+1341,Casas,72.0,240000.0,3,2,2,Aroeiras
+1342,Casas,103.0,290000.0,3,2,4,São Sebastião
+1343,Apartamentos,119.0,600000.0,3,2,2,Fátima
+1344,Casas,58.0,169900.0,2,1,1,Aroeiras
+1346,Casas,70.0,233000.0,3,2,1,Uruguai
+1347,Apartamentos,303.0,2750000.0,4,5,4,Fátima
+1350,Apartamentos,85.0,529000.0,3,3,2,Santa Isabel
+1351,Apartamentos,179.0,2045958.0,4,5,3,Jóquei
+1352,Casas,270.0,1750000.0,4,4,2,Tabajaras
+1353,Casas,135.0,700000.0,3,2,2,Uruguai
+1354,Apartamentos,74.0,470000.0,2,2,2,Santa Isabel
+1356,Apartamentos,64.0,390000.0,3,2,2,Cristo Rei
+1357,Casas,61.0,165311.0,2,1,2,Morros
+1358,Casas,300.0,1800000.0,4,5,2,Gurupi
+1359,Apartamentos,84.0,520000.0,2,4,2,Jóquei
+1360,Apartamentos,71.0,370000.0,3,2,2,São João
+1361,Apartamentos,84.0,380000.0,3,2,2,Horto
+1362,Casas,186.0,995000.0,4,3,2,Ininga
+1363,Apartamentos,137.0,900000.0,3,4,2,Jóquei
+1364,Apartamentos,65.0,210000.0,3,1,2,Uruguai
+1365,Apartamentos,161.0,1250000.0,3,3,2,Fátima
+1366,Apartamentos,80.0,750000.0,3,2,2,Jóquei
+1367,Apartamentos,60.0,340000.0,2,2,2,Ininga
+1368,Casas,100.0,600000.0,3,1,2,Santa Isabel
+1369,Casas,322.0,1299000.0,4,4,2,Ininga
+1370,Apartamentos,72.0,380000.0,3,2,2,São João
+1371,Casas,210.0,1150000.0,4,4,2,Morros
+1372,Casas,110.0,550000.0,4,4,2,Morros
+1373,Casas,246.0,1500000.0,3,4,2,Uruguai
+1374,Casas,130.0,661000.0,3,3,2,Vale Quem Tem
+1375,Casas,460.0,1800000.0,4,5,2,São Cristóvão
+1376,Casas,210.0,1150000.0,4,4,2,Morros
+1377,Casas,287.0,850000.0,5,5,2,São João
+1378,Apartamentos,75.0,435000.0,3,4,2,Horto
+1379,Casas,200.0,180000.0,2,1,2,Vale Quem Tem
+1380,Apartamentos,182.0,980000.0,4,4,2,Horto
+1381,Casas,200.0,390000.0,3,1,2,Itararé
+1382,Apartamentos,32.0,297600.0,1,2,2,Horto
+1383,Casas,287.0,850000.0,5,5,2,São João
+1384,Casas,186.0,995000.0,4,4,2,Ininga
+1385,Casas,100.0,400000.0,3,1,2,Aeroporto
+1386,Apartamentos,66.0,335000.0,3,1,2,Uruguai
+1387,Casas,180.0,1150000.0,4,5,2,Horto
+1388,Apartamentos,110.0,290000.0,3,2,2,São Pedro
+1389,Apartamentos,60.0,200000.0,3,2,2,Vale Quem Tem
+1390,Casas,200.0,590000.0,4,3,2,Satélite
+1392,Casas,400.0,1300000.0,4,4,2,Gurupi
+1393,Casas,200.0,120000.0,2,1,2,Memorare
+1395,Casas,175.0,890000.0,4,5,2,Gurupi
+1396,Casas,390.0,720000.0,5,4,2,Ininga
+1397,Casas,370.0,845000.0,5,4,2,Ininga
+1398,Apartamentos,55.0,147000.0,2,2,2,Colorado
+1400,Apartamentos,46.0,140000.0,2,1,2,Centro
+1401,Apartamentos,79.0,735000.0,2,3,2,Fátima
+1519,Casas,387.0,820000.0,3,3,4,Noivos
+1520,Apartamentos,75.0,435000.0,3,4,2,Horto
+1521,Apartamentos,79.0,735000.0,2,3,2,Fátima
+1522,Casas,200.0,120000.0,2,1,2,Itararé
+1524,Apartamentos,60.0,200000.0,3,2,2,Santa Lia
+1526,Apartamentos,60.0,280000.0,2,2,1,Uruguai
+1527,Apartamentos,74.0,450000.0,3,2,2,Horto
+1528,Apartamentos,72.0,398000.0,3,3,2,Noivos
+1529,Casas,580.0,700000.0,3,3,4,Horto
+1530,Apartamentos,62.0,275000.0,3,2,1,Planalto
+1531,Apartamentos,75.0,290000.0,3,2,1,Piçarreira
+1532,Apartamentos,66.0,315000.0,3,2,1,Gurupi
+1533,Apartamentos,67.0,240000.0,3,2,1,Noivos
+1534,Apartamentos,59.0,576304.0,1,1,1,Jóquei
+1536,Apartamentos,60.0,185000.0,3,2,1,Vale Quem Tem
+1537,Casas,145.0,700000.0,4,4,2,Morros
+1538,Casas,124.0,900000.0,3,3,1,Piçarra
+1539,Apartamentos,70.0,330000.0,3,1,1,Ininga
+1540,Casas,250.0,1750000.0,4,4,2,Uruguai
+1541,Casas,280.0,450000.0,3,3,3,Bela Vista
+1542,Apartamentos,62.0,340000.0,3,2,2,São João
+1543,Apartamentos,56.0,272100.0,2,2,1,Nossa Senhora das Graças
+1544,Apartamentos,82.0,650000.0,3,4,2,Jóquei
+1545,Apartamentos,45.0,199000.0,2,2,1,Uruguai
+1546,Apartamentos,55.0,160000.0,2,1,1,Colorado
+1547,Casas,160.0,750000.0,4,4,2,Samapi
+1548,Apartamentos,77.0,370000.0,2,3,1,Campestre
+1549,Apartamentos,80.0,560000.0,3,4,2,Horto
+1550,Apartamentos,106.0,850000.0,3,4,2,Horto
+1551,Apartamentos,72.0,460000.0,2,3,2,São Cristóvão
+1552,Apartamentos,105.0,687000.0,3,1,2,Fátima
+1553,Apartamentos,105.0,650000.0,3,2,2,Fátima
+1554,Apartamentos,77.0,250000.0,3,3,1,Santa Isabel
+1555,Apartamentos,110.0,290000.0,3,2,2,São Pedro
+1556,Casas,200.0,590000.0,4,4,4,Satélite
+1557,Apartamentos,60.0,250000.0,2,2,1,Campestre
+1558,Casas,147.0,900000.0,4,3,4,Ininga
+1560,Casas,228.0,1100000.0,4,4,5,Centro
+1561,Casas,186.0,900000.0,4,1,2,Ininga
+1562,Casas,130.0,330000.0,3,2,2,Porto do Centro
+1563,Casas,393.0,700000.0,3,3,1,Centro
+1564,Casas,250.0,1750000.0,4,4,2,Uruguai
+1565,Casas,130.0,330000.0,3,1,2,Porto do Centro
+1566,Casas,160.0,590000.0,3,2,3,Horto
+1567,Apartamentos,190.0,850000.0,3,4,2,Ininga
+1568,Casas,220.0,700000.0,5,4,4,Itararé
+1569,Apartamentos,60.0,340000.0,2,2,1,Ininga
+1570,Casas,61.0,160000.0,2,1,1,Verdecap
+1571,Apartamentos,58.0,272269.0,2,1,2,Aeroporto
+1572,Apartamentos,55.0,230000.0,2,2,1,Jóquei
+1573,Apartamentos,82.0,700000.0,3,4,2,Ininga
+1574,Casas,369.0,950000.0,5,2,5,Santa Isabel
+1575,Casas,166.0,800000.0,3,3,2,Uruguai
+1576,Casas,190.0,350000.0,4,3,1,Saci
+1577,Apartamentos,132.0,830000.0,3,2,2,Fátima
+1578,Casas,450.0,1200000.0,5,5,2,São João
+1579,Apartamentos,58.0,155000.0,2,1,1,Uruguai
+1580,Casas,180.0,987000.0,3,4,2,Núcleo Urbano Fazenda Real
+1581,Apartamentos,44.0,110000.0,2,1,1,Santa Maria
+1582,Casas,147.0,900000.0,4,4,4,Ininga
+1583,Apartamentos,75.0,420000.0,3,2,1,Santa Isabel
+1584,Apartamentos,130.0,920000.0,3,1,2,Fátima
+1585,Apartamentos,52.0,150000.0,2,1,1,Itararé
+1586,Apartamentos,168.0,1600000.0,3,3,2,Jóquei
+1587,Casas,424.0,1300000.0,4,5,4,Morros
+1588,Apartamentos,136.0,1395000.0,4,5,2,Fátima
+1589,Apartamentos,85.0,535000.0,3,2,2,Ilhotas
+1590,Apartamentos,85.0,460000.0,3,2,2,Ilhotas
+1591,Apartamentos,80.0,750000.0,3,2,2,Jóquei
+1592,Apartamentos,130.0,770000.0,3,2,2,Fátima
+1593,Apartamentos,86.0,562990.0,3,4,2,Jóquei
+1594,Apartamentos,64.0,180000.0,3,2,1,Uruguai
+1595,Apartamentos,99.0,280000.0,3,2,1,Macaúba
+1596,Apartamentos,119.0,950000.0,3,5,2,Fátima
+1597,Casas,390.0,400000.0,4,2,3,Porto do Centro
+1598,Apartamentos,142.0,1159400.0,3,4,4,São Cristóvão
+1599,Apartamentos,102.0,750000.0,2,2,2,Jóquei
+1600,Casas,188.0,310000.0,2,3,3,Frei Higino
+1602,Apartamentos,81.0,730000.0,3,2,2,Ininga
+1603,Apartamentos,107.0,550000.0,3,2,2,Ininga
+1604,Casas,160.0,680000.0,4,5,2,Morros
+1605,Casas,151.0,780000.0,5,5,2,Samapi
+1606,Apartamentos,32.0,288000.0,1,1,1,Horto
+1607,Casas,260.0,750000.0,5,5,1,Santa Isabel
+1608,Casas,98.0,415165.0,3,3,2,Morros
+1609,Casas,77.0,289665.0,3,3,2,Morros
+1610,Apartamentos,74.0,500000.0,3,2,1,Horto
+1611,Apartamentos,63.0,267000.0,3,2,2,Jóquei
+1612,Apartamentos,196.0,280000.0,3,1,1,Aeroporto
+1613,Apartamentos,84.0,220000.0,2,1,1,São João
+1614,Apartamentos,75.0,470000.0,2,1,1,Santa Isabel
+1615,Apartamentos,48.0,190000.0,2,1,1,Cidade Jardim
+1616,Apartamentos,60.0,285000.0,2,3,1,Santa Isabel
+1617,Casas,174.0,900000.0,4,4,2,Piçarreira
+1618,Apartamentos,162.0,700000.0,3,2,2,Frei Serafim
+1619,Apartamentos,76.0,370000.0,3,2,2,Morros
+1622,Casas,93.0,270000.0,3,3,3,Verde Lar
+1623,Apartamentos,47.0,140000.0,2,1,2,Cidade Nova
+1624,Apartamentos,70.0,280000.0,2,2,2,Satélite
+1625,Apartamentos,56.0,254053.0,2,2,2,Uruguai
+1626,Apartamentos,47.0,211000.0,2,1,1,Cristo Rei
+1627,Apartamentos,142.0,1139000.0,3,4,3,São Cristóvão
+1628,Apartamentos,53.0,296690.0,2,2,1,São Cristóvão
+1629,Casas,130.0,330000.0,3,3,2,Porto do Centro
+1630,Casas,200.0,279000.0,3,1,1,Extrema
+1631,Casas,60.0,170000.0,2,1,1,Verde Lar
+1632,Casas,60.0,130000.0,2,2,2,Parque Poti
+1633,Casas,200.0,350000.0,3,2,3,Itararé
+1634,Casas,107.0,557180.0,4,4,2,Morros
+1635,Apartamentos,48.0,145000.0,2,1,1,Parque Ideal
+1636,Apartamentos,141.0,1400000.0,3,3,2,Fátima
+1637,Casas,250.0,600000.0,4,3,4,São Cristóvão
+1638,Casas,220.0,630000.0,3,4,4,Santa Isabel
+1639,Apartamentos,77.0,395000.0,3,2,1,Uruguai
+1640,Apartamentos,69.0,290000.0,3,2,1,Morada do Sol
+1641,Apartamentos,225.0,2163000.0,4,5,4,Jóquei
+1642,Apartamentos,142.0,1139000.0,3,1,3,São Cristóvão
+1643,Apartamentos,118.0,950000.0,3,5,2,São Cristóvão
+1644,Casas,120.0,580000.0,4,1,4,Satélite
+1645,Apartamentos,225.0,2250000.0,4,5,3,Jóquei
+1646,Casas,130.0,330000.0,3,3,2,Porto do Centro
+1647,Apartamentos,39.0,208000.0,2,1,1,Gurupi
+1648,Apartamentos,55.0,180000.0,2,1,1,Piçarreira
+1649,Apartamentos,187.0,1210000.0,4,4,3,Noivos
+1650,Casas,375.0,2000000.0,3,3,2,Tabajaras
+1651,Apartamentos,65.0,220000.0,3,2,1,Vale Quem Tem
+1652,Apartamentos,78.0,498100.0,3,2,2,Monte Castelo
+1653,Apartamentos,438.0,2990000.0,4,5,4,Jóquei
+1654,Casas,134.0,750000.0,3,4,2,Morros
+1655,Apartamentos,61.0,410000.0,1,1,1,Jóquei
+1656,Apartamentos,68.0,230000.0,3,2,1,Recanto das Palmeiras
+1657,Casas,520.0,2400000.0,3,3,4,Uruguai
+1658,Casas,400.0,2900000.0,5,5,2,Tabajaras
+1659,Casas,120.0,250000.0,3,2,1,Mafuá
+1660,Apartamentos,45.0,135000.0,2,1,1,Vale do Gavião
+1661,Casas,319.0,400000.0,2,2,3,Buenos Aires
+1662,Apartamentos,92.0,600000.0,3,4,2,Jóquei
+1663,Apartamentos,53.0,258865.0,2,1,1,Jóquei
+1664,Apartamentos,60.0,300000.0,2,2,1,Morros
+1665,Apartamentos,130.0,330000.0,3,3,2,Porto do Centro
+1666,Apartamentos,58.0,296023.0,2,1,2,Jóquei
+1667,Apartamentos,47.0,140000.0,2,1,2,Cidade Nova
+1668,Casas,186.0,995000.0,4,4,4,Ininga
+1669,Casas,90.0,330000.0,2,1,2,Vale Quem Tem
+1670,Casas,160.0,670000.0,4,4,2,Socopo
+1671,Apartamentos,70.0,490000.0,3,1,2,Uruguai
+1672,Apartamentos,225.0,2233200.0,5,5,4,Ininga
+1673,Casas,375.0,1900000.0,4,5,5,Tabajaras
+1674,Casas,181.0,1100000.0,5,5,4,Ininga
+1675,Apartamentos,67.0,215000.0,2,2,1,São Cristóvão
+1676,Casas,150.0,600000.0,3,2,2,Centro
+1677,Casas,98.0,275000.0,2,1,2,São Sebastião
+1678,Casas,450.0,800000.0,4,4,5,Santa Isabel
+1679,Apartamentos,64.0,270000.0,3,2,1,Noivos
+1680,Apartamentos,47.0,165000.0,2,1,1,Morada do Sol
+1681,Apartamentos,49.0,284302.0,2,2,1,Cidade Nova
+1682,Apartamentos,130.0,700000.0,3,4,2,Jóquei
+1683,Casas,250.0,570000.0,4,4,5,Fátima
+1684,Apartamentos,68.0,290000.0,3,2,1,Piçarreira
+1685,Apartamentos,53.0,290000.0,2,2,1,São Cristóvão
+1686,Apartamentos,70.0,410433.0,3,2,2,Cabral
+1687,Casas,227.0,1200000.0,3,4,4,Mafuá
+1688,Apartamentos,64.0,180000.0,3,2,1,Gurupi
+1689,Apartamentos,77.0,390000.0,2,2,2,Noivos
+1691,Apartamentos,75.0,355500.0,3,2,2,Santa Isabel
+1692,Apartamentos,73.0,395000.0,3,3,1,Fátima
+1693,Casas,379.0,2000000.0,3,3,4,Tabajaras
+1694,Apartamentos,68.0,250000.0,2,2,1,Ininga
+1695,Apartamentos,85.0,720000.0,3,2,2,Ininga
+1696,Casas,46.0,180000.0,2,1,1,Mocambinho
+1698,Casas,152.0,800000.0,4,5,2,Samapi
+1699,Casas,200.0,850000.0,4,4,2,Santa Isabel
+1700,Apartamentos,160.0,1600000.0,3,4,3,Jóquei
+1701,Casas,400.0,1300000.0,4,4,2,Gurupi
+1702,Casas,200.0,850000.0,4,4,2,Santa Isabel
+1703,Apartamentos,77.0,250000.0,3,2,1,Santa Isabel
+1704,Casas,200.0,700000.0,3,4,4,São Cristóvão
+1705,Casas,440.0,1300000.0,4,5,4,Socopo
+1706,Casas,180.0,780000.0,4,5,2,Morros
+1707,Casas,400.0,1300000.0,4,4,2,Gurupi
+1708,Casas,152.0,800000.0,4,5,2,Samapi
+1709,Casas,440.0,1300000.0,4,5,4,Socopo
+1710,Casas,240.0,750000.0,4,4,5,Morada do Sol
+1711,Apartamentos,75.0,164000.0,3,1,2,Ininga
+1712,Apartamentos,80.0,560000.0,3,3,2,Horto
+1713,Casas,60.0,170000.0,2,1,1,Vale do Gavião
+1714,Casas,175.0,890000.0,4,5,4,Gurupi
+1715,Casas,182.0,980000.0,4,4,2,Horto
+1716,Casas,104.0,490000.0,3,3,2,Uruguai
+1717,Casas,200.0,500000.0,3,2,2,Memorare
+1718,Casas,244.0,480000.0,4,2,3,Aeroporto
+1719,Apartamentos,168.0,540000.0,3,2,1,Frei Serafim
+1720,Casas,151.0,750000.0,4,4,2,Gurupi
+1721,Apartamentos,47.0,159900.0,2,1,1,Parque Ideal
+1722,Casas,77.0,311000.0,3,2,2,Pedra Mole
+1723,Apartamentos,72.0,420000.0,3,2,2,Recanto das Palmeiras
+1724,Apartamentos,119.0,400000.0,3,3,3,Jóquei
+1725,Casas,169.0,550000.0,3,4,4,Catarina
+1726,Casas,280.0,1300000.0,5,5,4,Núcleo Urbano Fazenda Real
+1727,Casas,99.0,1000000.0,4,3,3,São João
+1728,Apartamentos,176.0,1100000.0,4,4,2,Ilhotas
+1729,Apartamentos,205.0,1500000.0,5,5,4,Jóquei
+1730,Apartamentos,103.0,620000.0,3,1,1,São Sebastião
+1731,Casas,200.0,590000.0,4,1,1,Satélite
+1732,Casas,240.0,750000.0,4,4,5,Morada do Sol
+1733,Apartamentos,62.0,340000.0,3,1,2,São Sebastião
+1734,Apartamentos,77.0,390000.0,2,1,1,Noivos
+1736,Casas,520.0,2400000.0,3,3,4,Uruguai
+1737,Apartamentos,80.0,700000.0,3,1,1,Ininga
+1739,Casas,200.0,870000.0,4,5,5,Ininga
+1740,Apartamentos,125.0,650000.0,3,3,2,Centro
+1741,Casas,448.0,1900000.0,4,5,5,Fátima
+1744,Apartamentos,48.0,150000.0,2,1,1,Cidade Jardim
+1745,Apartamentos,72.0,210000.0,3,1,1,Primavera
+1746,Apartamentos,76.0,285000.0,3,2,1,Samapi
+1747,Apartamentos,65.0,330000.0,3,1,2,Gurupi
+1748,Apartamentos,110.0,240000.0,4,3,1,Aeroporto
+1749,Casas,95.0,190000.0,3,2,2,Vale Quem Tem
+1750,Casas,120.0,599000.0,4,5,2,Gurupi
+1751,Apartamentos,59.0,200000.0,2,2,1,Campestre
+1752,Apartamentos,180.0,800000.0,3,5,2,Jóquei
+1753,Casas,200.0,590000.0,4,3,4,Satélite
+1754,Apartamentos,60.0,300000.0,2,2,1,Morros
+1755,Apartamentos,151.0,740000.0,3,4,2,Zoobotânico
+1756,Apartamentos,70.0,290000.0,3,3,2,Horto
+1757,Casas,156.0,390000.0,4,3,3,Satélite
+1758,Apartamentos,52.0,250000.0,2,1,1,Cristo Rei
+1759,Casas,200.0,300000.0,4,2,2,Saci
+1760,Apartamentos,60.0,230000.0,2,2,1,Campestre
+1761,Apartamentos,224.0,1800000.0,3,4,3,Jóquei
+1762,Casas,103.0,620000.0,3,2,2,Campestre
+1763,Apartamentos,107.0,760000.0,4,4,2,Jóquei
+1764,Apartamentos,67.0,225000.0,2,2,1,São Cristóvão
+1765,Apartamentos,74.0,470000.0,2,2,1,Santa Isabel
+1766,Apartamentos,107.0,900000.0,1,1,2,Jóquei
+1767,Apartamentos,124.0,690000.0,3,2,2,Jóquei
+1768,Apartamentos,74.0,355000.0,3,2,1,Santa Isabel
+1769,Apartamentos,137.0,900000.0,3,4,2,Jóquei
+1770,Casas,220.0,1700000.0,4,5,4,Uruguai
+1771,Apartamentos,304.0,1900000.0,4,5,4,Jóquei
+1772,Casas,57.0,196000.0,2,1,2,Vale do Gavião
+1773,Apartamentos,108.0,800000.0,3,4,2,Jóquei
+1774,Casas,200.0,850000.0,4,4,5,Santa Isabel
+1775,Casas,200.0,590000.0,4,3,4,Satélite
+1776,Casas,226.0,750000.0,4,5,5,Fátima
+1777,Apartamentos,136.0,1137479.0,3,3,2,Fátima
+1778,Apartamentos,75.0,420000.0,3,2,1,Santa Isabel
+1779,Apartamentos,48.0,259900.0,2,3,1,Cristo Rei
+1780,Casas,220.0,1700000.0,4,5,4,Uruguai
+1783,Casas,99.0,180000.0,3,1,2,Esplanada
+1784,Apartamentos,58.0,220000.0,1,2,1,Santa Isabel
+1785,Casas,150.0,330000.0,4,3,2,Parque Piauí
+1786,Apartamentos,49.0,160000.0,3,1,1,Aeroporto
+1787,Apartamentos,62.0,340000.0,3,2,2,São João
+1788,Apartamentos,70.0,270000.0,3,2,1,São João
+1789,Casas,280.0,700000.0,5,3,5,Ininga
+1790,Casas,210.0,1150000.0,4,4,2,Morros
+1791,Apartamentos,78.0,160000.0,2,2,2,Parque Ideal
+1792,Apartamentos,60.0,300000.0,2,2,1,Morros
+1793,Casas,186.0,995000.0,4,4,4,Ininga
+1794,Apartamentos,79.0,735000.0,2,3,2,Fátima
+1795,Apartamentos,75.0,504000.0,3,2,1,Santa Isabel
+1796,Apartamentos,69.0,365000.0,3,3,2,São Cristóvão
+1797,Apartamentos,55.0,160000.0,2,2,1,Colorado
+1798,Apartamentos,102.0,550000.0,3,4,2,Horto
+1800,Apartamentos,141.0,1270000.0,3,4,3,Fátima
+1801,Apartamentos,77.0,190000.0,3,1,1,Alto Alegre
+1802,Apartamentos,300.0,270000.0,3,2,3,Noivos
+1803,Apartamentos,202.0,1200000.0,5,5,3,Fátima
+1804,Apartamentos,227.0,1900000.0,3,4,4,Jóquei
+1805,Apartamentos,119.0,950000.0,3,4,2,São Cristóvão
+1807,Apartamentos,70.0,380000.0,3,2,2,Ininga
+1808,Apartamentos,116.0,630000.0,3,4,2,Aeroporto
+1809,Apartamentos,55.0,230000.0,2,2,1,Aeroporto
+1810,Apartamentos,55.0,220000.0,2,2,1,São Cristóvão
+1811,Apartamentos,48.0,137065.0,2,1,1,Centro
+1812,Casas,120.0,398000.0,4,2,3,Gurupi
+1813,Casas,152.0,800000.0,4,4,2,Samapi
+1814,Casas,200.0,850000.0,4,4,4,Santa Isabel
+1815,Casas,175.0,890000.0,4,5,4,Gurupi
+1816,Casas,190.0,1150000.0,3,2,2,Fátima
+1817,Apartamentos,77.0,345000.0,3,3,1,Morada do Sol
+1818,Casas,169.0,430000.0,3,3,4,Morada Nova
+1819,Apartamentos,108.0,650000.0,4,4,2,Piçarreira
+1820,Apartamentos,105.0,750000.0,3,2,2,Fátima
+1821,Apartamentos,60.0,340000.0,2,2,1,Horto
+1822,Casas,87.0,414000.0,3,3,1,Morros
+1823,Casas,287.0,850000.0,5,5,4,São João
+1824,Casas,200.0,590000.0,4,3,4,Satélite
+1825,Casas,279.0,1280000.0,4,4,4,Zoobotânico
+1826,Apartamentos,32.0,297600.0,2,2,1,Horto
+1827,Casas,180.0,950000.0,4,4,2,Gurupi
+1828,Apartamentos,43.0,140000.0,2,1,1,Cidade Nova
+1829,Casas,76.0,290000.0,3,3,2,Morros
+1830,Apartamentos,64.0,330000.0,3,3,2,São Cristóvão
+1831,Apartamentos,80.0,750000.0,3,2,2,Jóquei
+1832,Apartamentos,141.0,1174400.0,3,4,3,São Cristóvão
+1833,Apartamentos,210.0,1100000.0,3,4,4,Fátima
+1834,Apartamentos,31.0,157000.0,1,1,1,Uruguai
+1835,Apartamentos,74.0,355000.0,3,2,1,Santa Isabel
+1836,Apartamentos,160.0,1600000.0,3,4,3,Jóquei
+1837,Apartamentos,57.0,269296.0,2,2,2,Cristo Rei
+1838,Casas,102.0,170000.0,2,2,1,Santa Maria
+1839,Apartamentos,45.0,210000.0,2,1,1,Uruguai
+1840,Casas,174.0,900000.0,4,5,3,São Cristóvão
+1842,Apartamentos,60.0,316461.0,3,2,2,Recanto das Palmeiras
+1843,Apartamentos,78.0,220000.0,2,3,1,Santa Isabel
+1844,Apartamentos,68.0,259990.0,3,1,1,Gurupi
+1845,Casas,104.0,450000.0,3,3,2,Uruguai
+1846,Apartamentos,106.0,820000.0,3,4,2,Horto
+1847,Casas,10.0,210000.0,2,2,2,Satélite
+1848,Casas,106.0,350000.0,3,2,2,Vale Quem Tem
+1849,Apartamentos,49.0,160000.0,2,1,1,Primavera
+1851,Apartamentos,69.0,200000.0,3,2,1,Ininga
+1852,Casas,92.0,270000.0,3,3,2,Vale Quem Tem
+1853,Apartamentos,65.0,250000.0,2,2,2,Uruguai
+1854,Apartamentos,141.0,1270000.0,3,4,3,Fátima
+1855,Apartamentos,128.0,1000000.0,3,4,2,Fátima
+1856,Apartamentos,66.0,315000.0,3,2,1,Gurupi
+1857,Casas,180.0,250000.0,4,2,2,Vale Quem Tem
+1859,Casas,70.0,300000.0,4,2,2,Saci
+1860,Casas,300.0,930000.0,4,3,4,Novo Uruguai
+1861,Apartamentos,50.0,135000.0,2,1,1,Angelim
+1862,Apartamentos,67.0,420000.0,3,3,2,Ininga
+1863,Apartamentos,89.0,350000.0,4,3,2,Morada do Sol
+1864,Apartamentos,119.0,600000.0,4,2,2,Jóquei
+1865,Apartamentos,90.0,370000.0,2,2,1,São João
+1866,Apartamentos,59.0,220000.0,3,2,1,Novo Horizonte
+1867,Casas,40.0,170000.0,2,1,3,Vale do Gavião
+1868,Casas,303.0,850000.0,4,4,4,São Cristóvão
+1869,Casas,329.0,2750000.0,3,5,4,Uruguai
+1870,Casas,122.0,529000.0,3,2,2,Gurupi
+1871,Apartamentos,80.0,560000.0,3,4,2,Horto
+1873,Apartamentos,102.0,270000.0,3,2,2,Morada do Sol
+1874,Apartamentos,142.0,1139000.0,3,1,3,São Cristóvão
+1875,Casas,95.0,170000.0,2,1,0,Mocambinho
+1876,Casas,160.0,600000.0,4,3,3,Fátima
+1877,Apartamentos,50.0,130000.0,2,1,1,Uruguai
+1878,Casas,500.0,130000.0,3,2,4,Lourival Parente
+1879,Casas,400.0,600000.0,3,1,2,Centro
+1880,Apartamentos,77.0,240000.0,3,3,1,Santa Isabel
+1881,Apartamentos,81.0,730000.0,3,2,2,Jóquei
+1883,Casas,280.0,1650000.0,4,5,4,Uruguai
+1884,Apartamentos,62.0,290000.0,3,2,2,São João
+1885,Casas,220.0,1500000.0,4,3,2,Uruguai
+1886,Apartamentos,72.0,460000.0,2,2,2,São Cristóvão
+1887,Casas,300.0,1150000.0,4,3,4,Novo Uruguai
+1889,Casas,350.0,880000.0,2,5,5,Gurupi
+1890,Apartamentos,86.0,564990.0,3,3,2,Jóquei
+1891,Casas,266.0,600000.0,3,4,2,Lourival Parente
+1893,Apartamentos,50.0,168985.0,2,2,1,Bela Vista
+1894,Apartamentos,56.0,225000.0,2,2,1,Aeroporto
+1895,Apartamentos,56.0,175000.0,3,1,1,Vale Quem Tem
+1896,Casas,102.0,240000.0,2,2,1,Saci
+1897,Casas,144.0,289000.0,3,2,1,Pedra Mole
+1898,Apartamentos,34.0,197800.0,1,1,1,São Cristóvão
+1899,Apartamentos,58.0,185000.0,1,2,1,Santa Isabel
+1900,Apartamentos,103.0,620000.0,3,2,2,Jóquei
+1901,Apartamentos,77.0,320000.0,2,2,2,Santa Isabel
+1902,Casas,65.0,165000.0,3,1,1,Santa Maria
+1903,Apartamentos,45.0,110000.0,2,1,2,Vale Quem Tem
+1904,Apartamentos,137.0,500000.0,2,1,2,Jóquei
+1905,Apartamentos,131.0,1039530.0,3,4,2,Jóquei
+1906,Apartamentos,75.0,350000.0,2,3,1,São Cristóvão
+1907,Casas,202.0,2000000.0,3,2,2,Uruguai
+1908,Apartamentos,32.0,288000.0,1,1,1,Horto
+1909,Casas,105.0,315000.0,3,1,4,Vale Quem Tem
+1910,Apartamentos,225.0,2163425.0,4,5,4,Jóquei
+1911,Apartamentos,60.0,300000.0,2,2,1,Morros
+1912,Apartamentos,74.0,495000.0,2,2,1,Santa Isabel
+1913,Casas,77.0,311000.0,3,3,2,Pedra Mole
+1914,Apartamentos,200.0,1600000.0,4,5,5,Jóquei
+1915,Apartamentos,75.0,260000.0,3,1,1,Uruguai
+1916,Casas,288.0,250000.0,3,1,2,Parque Alvorada
+1917,Apartamentos,107.0,860000.0,3,3,3,Jóquei
+1918,Casas,186.0,995000.0,4,4,4,Ininga
+1919,Apartamentos,110.0,450000.0,3,3,2,Centro
+1920,Apartamentos,77.0,160000.0,3,2,1,Ininga
+1921,Casas,130.0,330000.0,3,3,2,Morros
+1922,Casas,99.0,380000.0,3,2,2,Gurupi
+1923,Apartamentos,227.0,1900000.0,3,4,4,Jóquei
+1924,Casas,450.0,2650000.0,5,5,4,Uruguai
+1925,Casas,77.0,323639.0,3,3,2,Morros
+1926,Apartamentos,142.0,1174400.0,3,4,3,São Cristóvão
+1927,Apartamentos,107.0,900000.0,3,3,2,Jóquei
+1928,Apartamentos,75.0,270000.0,3,2,1,Piçarreira
+1929,Casas,302.0,2200000.0,4,5,2,Uruguai
+1930,Casas,93.0,359000.0,3,3,2,Tabajaras
+1931,Casas,279.0,1280000.0,4,4,3,Morros
+1932,Casas,480.0,2500000.0,5,5,4,São Cristóvão
+1933,Apartamentos,66.0,280000.0,3,2,1,Gurupi
+1935,Casas,180.0,995000.0,4,3,5,Ininga
+1936,Apartamentos,174.0,950000.0,4,5,2,Ilhotas
+1937,Apartamentos,59.0,311500.0,3,2,2,Recanto das Palmeiras
+1938,Apartamentos,70.0,300000.0,2,2,1,Morros
+1939,Casas,180.0,280000.0,4,2,2,Reis Veloso
+1940,Casas,340.0,1450000.0,5,5,2,São João
+1941,Apartamentos,77.0,340000.0,3,3,1,Campestre
+1942,Casas,250.0,570000.0,4,5,2,Fátima
+1943,Casas,160.0,385000.0,3,3,4,Buenos Aires
+1944,Casas,224.0,1500000.0,4,5,2,Uruguai
+1945,Apartamentos,206.0,1780000.0,3,3,3,Jóquei
+1946,Casas,267.0,2500000.0,4,4,2,Uruguai
+1947,Apartamentos,200.0,1780000.0,4,4,3,Jóquei
+1948,Casas,180.0,1050000.0,4,4,2,Horto
+1949,Apartamentos,110.0,550000.0,3,3,2,Ininga
+1950,Casas,440.0,1300000.0,4,5,4,Socopo
+1951,Apartamentos,191.0,980000.0,4,5,3,Fátima
+1952,Apartamentos,130.0,924670.0,3,4,2,Fátima
+1953,Apartamentos,160.0,1600000.0,3,4,3,Jóquei
+1955,Apartamentos,46.0,170000.0,2,1,1,Piçarreira
+1956,Apartamentos,69.0,250000.0,3,1,1,Cristo Rei
+1957,Apartamentos,76.0,220000.0,2,1,1,Ininga
+1958,Apartamentos,84.0,270000.0,3,2,1,Santa Lia
+1959,Apartamentos,52.0,160000.0,2,1,1,Campestre
+1960,Casas,160.0,750000.0,4,3,2,Morros
+1961,Apartamentos,61.0,195000.0,2,2,1,Novo Horizonte
+1962,Apartamentos,60.0,350000.0,2,2,1,São João
+1963,Casas,145.0,690000.0,4,5,3,Morros
+1964,Apartamentos,55.0,220000.0,2,2,1,São Cristóvão
+1965,Casas,322.0,1299000.0,4,4,5,Ininga
+1967,Apartamentos,71.0,195000.0,2,2,1,Santa Isabel
+1970,Casas,246.0,1500000.0,3,4,4,Uruguai
+1971,Casas,226.0,750000.0,4,5,5,Fátima
+1972,Apartamentos,180.0,1200000.0,4,4,3,Fátima
+1973,Casas,170.0,495000.0,3,4,2,Morros
+1974,Casas,160.0,385000.0,3,3,4,Buenos Aires
+1975,Casas,137.0,860000.0,4,5,3,Morros
+1976,Casas,200.0,870000.0,4,5,5,Ininga
+1977,Casas,600.0,2980000.0,4,5,4,Uruguai
+1978,Casas,254.0,2100000.0,3,5,4,Gurupi
+1979,Casas,352.0,2100000.0,3,4,5,Jóquei
+1980,Casas,246.0,1500000.0,3,4,4,Uruguai
+1981,Casas,440.0,1300000.0,4,5,4,Socopo
+1982,Casas,226.0,750000.0,4,5,5,Fátima
+1983,Casas,113.0,390000.0,3,2,3,Piçarreira
+1984,Casas,137.0,860000.0,4,5,3,Morros
+1986,Casas,107.0,633999.0,4,4,3,Morros
+1987,Casas,230.0,1800000.0,4,4,4,Fátima
+1988,Casas,405.0,2800000.0,4,5,2,Tabajaras
+1989,Casas,287.0,850000.0,5,5,4,São João
+1990,Casas,136.0,950000.0,4,4,2,Morros
+1991,Casas,287.0,850000.0,5,5,4,São João
+1992,Casas,216.0,1100000.0,4,5,3,Gurupi
+1993,Apartamentos,85.0,460000.0,3,2,2,Ilhotas
+1994,Apartamentos,127.0,1150000.0,3,3,2,Fátima
+1995,Apartamentos,86.0,562990.0,3,4,2,Jóquei
+1996,Apartamentos,105.0,650000.0,3,2,2,Fátima
+1997,Apartamentos,130.0,770000.0,3,2,2,Fátima
+1998,Apartamentos,80.0,560000.0,3,4,2,Horto
+1999,Apartamentos,82.0,650000.0,3,4,2,Jóquei
+2000,Apartamentos,75.0,420000.0,3,2,1,Santa Isabel
+2001,Apartamentos,72.0,398000.0,3,3,2,Noivos
+2002,Apartamentos,77.0,370000.0,2,3,1,Campestre
+2003,Apartamentos,90.0,482800.0,3,2,2,São Cristóvão
+2004,Apartamentos,62.0,340000.0,3,2,2,São João
+2005,Apartamentos,106.0,850000.0,3,4,2,Horto
+2006,Casas,230.0,750000.0,4,3,4,Santa Isabel
+2007,Apartamentos,72.0,460000.0,2,3,2,São Cristóvão
+2008,Apartamentos,64.0,390000.0,3,1,2,Cristo Rei
+2009,Apartamentos,66.0,280000.0,3,2,1,Piçarra
+2010,Apartamentos,106.0,870000.0,3,3,2,Horto
+2011,Apartamentos,89.0,350000.0,3,3,2,Morada do Sol
+2012,Apartamentos,50.0,212300.0,2,1,1,Cristo Rei
+2013,Casas,358.0,2980000.0,5,5,4,Gurupi
+2014,Apartamentos,85.0,630000.0,3,2,1,Ilhotas
+2015,Casas,200.0,870000.0,4,5,5,Ininga
+2016,Casas,137.0,860000.0,4,5,3,Morros
+2017,Apartamentos,355.0,2300000.0,4,4,3,Ilhotas
+2018,Apartamentos,141.0,1270000.0,3,4,3,Fátima
+2019,Apartamentos,45.0,199000.0,2,2,1,Uruguai
+2020,Apartamentos,68.0,360000.0,3,2,1,Fátima
+2021,Apartamentos,141.0,1350000.0,3,3,3,Fátima
+2022,Casas,182.0,987000.0,4,1,2,Horto
+2023,Casas,254.0,1950000.0,4,5,4,Uruguai
+2024,Casas,190.0,390000.0,3,1,3,Gurupi
+2025,Casas,124.0,410000.0,4,3,2,Morros
+2026,Apartamentos,55.0,200000.0,2,1,1,Uruguai
+2027,Casas,110.0,390000.0,3,2,2,Piçarreira
+2028,Apartamentos,81.0,730000.0,3,5,2,Ininga
+2029,Apartamentos,74.0,470000.0,2,2,1,Santa Isabel
+2030,Apartamentos,59.0,226000.0,3,2,1,Vale Quem Tem
+2031,Apartamentos,47.0,150000.0,2,1,1,Campestre
+2032,Apartamentos,60.0,250672.0,3,2,1,Uruguai
+2033,Apartamentos,225.0,2163000.0,4,1,4,Jóquei
+2034,Apartamentos,119.0,950000.0,3,4,2,São Cristóvão
+2035,Apartamentos,71.0,490000.0,3,3,2,Uruguai
+2036,Casas,140.0,300000.0,3,3,2,Piçarra
+2037,Casas,75.0,150000.0,2,2,2,Jacinta Andrade
+2038,Casas,375.0,2000000.0,3,4,2,Centro
+2039,Casas,375.0,2900000.0,5,5,5,Tabajaras
+2040,Apartamentos,104.0,680000.0,4,3,2,Frei Serafim
+2041,Apartamentos,47.0,125000.0,2,1,1,Vale do Gavião
+2042,Apartamentos,75.0,330000.0,3,3,1,São Cristóvão
+2043,Apartamentos,86.0,562990.0,3,1,2,Jóquei
+2044,Casas,134.0,780000.0,4,3,3,Planalto
+2045,Apartamentos,50.0,225000.0,2,1,1,Uruguai
+2046,Casas,60.0,160000.0,2,2,1,Morros
+2047,Apartamentos,45.0,145000.0,2,1,1,Morros
+2048,Casas,77.0,303000.0,3,1,2,Morros
+2049,Apartamentos,100.0,780000.0,3,2,2,Fátima
+2050,Casas,135.0,420000.0,3,1,2,Vale Quem Tem
+2051,Apartamentos,120.0,620000.0,3,4,2,Jóquei
+2052,Apartamentos,206.0,1780000.0,4,4,3,Jóquei
+2053,Casas,103.0,290000.0,2,2,2,Renascença
+2054,Casas,200.0,590000.0,4,3,4,Satélite
+2055,Casas,180.0,1300000.0,3,2,2,Uruguai
+2056,Casas,228.0,1700000.0,4,4,2,Uruguai
+2057,Casas,440.0,1300000.0,4,1,4,Socopo
+2058,Apartamentos,70.0,338000.0,3,2,1,Ininga
+2059,Apartamentos,48.0,150000.0,2,1,1,Uruguai
+2060,Apartamentos,71.0,240211.0,3,2,1,Uruguai
+2061,Casas,120.0,240000.0,2,1,2,Santo Antônio
+2062,Casas,169.0,430000.0,3,3,4,Vale Quem Tem
+2063,Apartamentos,60.0,340000.0,2,2,2,Ininga
+2064,Apartamentos,48.0,260000.0,2,2,1,Cidade Nova
+2065,Casas,216.0,1100000.0,4,4,2,Recanto das Palmeiras
+2066,Apartamentos,78.0,320000.0,3,3,1,Campestre
+2067,Apartamentos,80.0,750000.0,3,2,2,Jóquei
+2068,Casas,180.0,770000.0,4,4,2,Morros
+2069,Apartamentos,60.0,285000.0,2,3,1,Santa Isabel
+2070,Apartamentos,110.0,290000.0,3,2,2,São Pedro
+2071,Apartamentos,81.0,730000.0,3,2,2,Ininga
+2072,Apartamentos,85.0,535000.0,3,2,2,Ilhotas
+2073,Casas,70.0,280000.0,5,2,2,Esplanada
+2074,Apartamentos,132.0,830000.0,3,2,2,Fátima
+2075,Casas,20.0,1800000.0,5,5,2,Centro
+2076,Apartamentos,79.0,735000.0,2,3,2,Fátima
+2077,Apartamentos,85.0,460000.0,3,2,2,Ilhotas
+2078,Apartamentos,75.0,290000.0,3,2,1,Piçarreira
+2080,Apartamentos,77.0,370000.0,2,3,1,Campestre
+2081,Apartamentos,60.0,450000.0,3,3,1,Ininga
+2082,Apartamentos,65.0,310000.0,3,2,1,Cidade Nova
+2083,Apartamentos,56.0,230000.0,2,2,1,São Cristóvão
+2084,Apartamentos,68.0,270000.0,3,1,1,Gurupi
+2085,Casas,140.0,380000.0,3,1,2,São Pedro
+2086,Apartamentos,50.0,130000.0,2,1,1,Cidade Jardim
+2087,Apartamentos,62.0,435000.0,2,3,1,Recanto das Palmeiras
+2088,Apartamentos,77.0,250000.0,3,1,1,Campestre
+2089,Casas,65.0,180000.0,2,2,2,Morros
+2092,Apartamentos,106.0,890000.0,3,4,2,Horto
+2093,Casas,400.0,780000.0,3,4,5,Memorare
+2094,Apartamentos,145.0,750000.0,3,3,2,Recanto das Palmeiras
+2095,Apartamentos,85.0,535000.0,3,2,2,Ilhotas
+2096,Apartamentos,56.0,272835.0,2,1,2,Uruguai
+2097,Apartamentos,225.0,2200000.0,4,5,4,Jóquei
+2098,Casas,100.0,150000.0,3,2,1,Cidade Jardim
+2099,Casas,134.0,750000.0,3,4,2,Morros
+2100,Apartamentos,48.0,165000.0,2,1,1,Marquês
+2101,Casas,200.0,930000.0,4,5,5,Fátima
+2102,Apartamentos,140.0,990000.0,4,4,3,Horto
+2103,Apartamentos,68.0,425360.0,3,2,2,Três Andares
+2104,Casas,219.0,650000.0,3,4,2,Piçarreira
+2105,Apartamentos,128.0,1200000.0,3,3,2,Horto
+2106,Apartamentos,74.0,360000.0,3,2,2,São Cristóvão
+2107,Casas,160.0,240000.0,2,1,1,Vale Quem Tem
+2108,Apartamentos,78.0,485000.0,3,2,2,Monte Castelo
+2109,Apartamentos,52.0,303000.0,2,1,1,Morada do Sol
+2110,Casas,160.0,680000.0,4,5,2,Morros
+2111,Apartamentos,65.0,165000.0,3,2,1,Piçarra
+2112,Apartamentos,65.0,195000.0,3,2,1,Uruguai
+2113,Apartamentos,225.0,500000.0,3,2,4,São Cristóvão
+2114,Casas,110.0,550000.0,4,4,2,Morros
+2115,Apartamentos,200.0,850000.0,3,4,3,Fátima
+2116,Casas,70.0,240000.0,3,2,1,Centro
+2117,Apartamentos,130.0,1214042.0,3,4,3,Jóquei
+2118,Apartamentos,47.0,130000.0,2,1,1,Vale do Gavião
+2119,Apartamentos,70.0,450000.0,3,2,2,Recanto das Palmeiras
+2120,Apartamentos,72.0,350000.0,3,3,1,São Cristóvão
+2121,Apartamentos,58.0,250000.0,3,1,1,Zoobotânico
+2122,Apartamentos,49.0,209490.0,2,1,1,Cristo Rei
+2123,Casas,180.0,1300000.0,3,3,4,Gurupi
+2124,Apartamentos,62.0,230000.0,3,2,1,Novo Horizonte
+2126,Casas,300.0,250000.0,3,2,5,Esplanada
+2127,Apartamentos,60.0,280000.0,2,1,1,Uruguai
+2128,Apartamentos,60.0,370000.0,3,1,1,Uruguai
+2129,Apartamentos,85.0,460000.0,3,2,2,Ilhotas
+2130,Apartamentos,137.0,900000.0,3,3,2,Jóquei
+2131,Apartamentos,119.0,950000.0,3,2,2,Fátima
+2132,Apartamentos,78.0,489000.0,3,2,2,São Cristóvão
+2133,Apartamentos,78.0,485000.0,3,2,2,Monte Castelo
+2134,Apartamentos,65.0,330000.0,3,2,2,Recanto das Palmeiras
+2135,Apartamentos,60.0,340000.0,2,2,1,Santa Isabel
+2136,Apartamentos,74.0,355000.0,3,2,1,Santa Isabel
+2137,Apartamentos,77.0,390000.0,2,2,2,Noivos
+2138,Apartamentos,56.0,354155.0,3,2,2,Cristo Rei
+2140,Casas,157.0,419108.0,3,4,2,Morros
+2141,Apartamentos,61.0,250000.0,3,2,1,Novo Horizonte
+2142,Casas,210.0,1450000.0,4,4,2,Uruguai
+2143,Apartamentos,210.0,1000000.0,4,5,4,Jóquei
+2144,Casas,250.0,820000.0,4,4,1,Fátima
+2145,Apartamentos,68.0,185000.0,3,2,1,Monte Castelo
+2146,Apartamentos,86.0,564990.0,3,2,2,Jóquei
+2148,Apartamentos,78.0,190000.0,3,2,1,Ininga
+2149,Casas,272.0,2100000.0,4,4,4,Gurupi
+2150,Apartamentos,80.0,560000.0,3,2,2,Ininga
+2151,Casas,99.0,650000.0,4,4,4,Cidade Jardim
+2152,Casas,251.0,150000.0,2,1,1,Parque Poti
+2153,Apartamentos,80.0,430000.0,3,3,1,Fátima
+2155,Apartamentos,56.0,163000.0,2,2,1,Bela Vista
+2156,Casas,102.0,315000.0,3,2,2,Renascença
+2157,Casas,553.0,1400000.0,5,5,5,Santa Isabel
+2158,Casas,440.0,1300000.0,4,1,4,Socopo
+2159,Apartamentos,120.0,190000.0,3,3,1,Centro
+2161,Apartamentos,59.0,321500.0,3,1,1,Recanto das Palmeiras
+2162,Casas,262.0,2300000.0,4,3,2,Uruguai
+2163,Casas,176.0,650000.0,3,5,3,Santa Isabel
+2165,Apartamentos,195.0,1400000.0,4,5,2,Jóquei
+2166,Apartamentos,49.0,160000.0,2,1,1,Uruguai
+2167,Casas,330.0,1150000.0,3,5,2,Ininga
+2168,Casas,103.0,530000.0,3,3,2,Cidade Jardim
+2169,Casas,146.0,390000.0,3,2,2,Alto Alegre
+2170,Apartamentos,127.0,1150000.0,3,3,2,Fátima
+2171,Casas,180.0,500000.0,3,2,2,Saci
+2172,Casas,237.0,1250000.0,4,4,5,Ininga
+2174,Apartamentos,48.0,125000.0,2,1,1,Gurupi
+2175,Apartamentos,50.0,147000.0,2,1,1,Vale do Gavião
+2176,Apartamentos,59.0,330000.0,2,2,1,Recanto das Palmeiras
+2177,Casas,151.0,740000.0,4,4,2,Gurupi
+2178,Apartamentos,80.0,475000.0,3,1,2,Horto
+2180,Casas,200.0,400000.0,2,2,2,Vale Quem Tem
+2181,Apartamentos,80.0,500000.0,3,1,1,Jóquei
+2182,Casas,76.0,269900.0,3,1,2,Morros
+2183,Apartamentos,85.0,580000.0,3,3,2,Jóquei
+2184,Casas,200.0,380000.0,5,2,2,Saci
+2185,Apartamentos,70.0,490000.0,3,3,2,Uruguai
+2186,Apartamentos,63.0,230000.0,2,2,1,Ininga
+2187,Apartamentos,78.0,150000.0,3,2,5,Uruguai
+2188,Apartamentos,65.0,220000.0,3,1,1,Uruguai
+2190,Casas,60.0,140000.0,3,2,2,Parque Sul
+2191,Apartamentos,180.0,960000.0,4,5,2,Jóquei
+2192,Casas,215.0,1800000.0,4,4,2,Uruguai
+2193,Apartamentos,60.0,300000.0,2,2,1,Morros
+2194,Casas,400.0,650000.0,4,5,4,São Cristóvão
+2195,Casas,200.0,2000000.0,3,3,4,Gurupi
+2196,Apartamentos,103.0,850000.0,3,4,2,Horto
+2197,Apartamentos,86.0,562990.0,3,4,2,Jóquei
+2198,Apartamentos,69.0,270000.0,3,2,1,Marquês
+2199,Apartamentos,46.0,134000.0,2,1,1,Itararé
+2200,Casas,130.0,661000.0,3,3,2,Vale Quem Tem
+2201,Apartamentos,48.0,145000.0,2,1,1,Tabajaras
+2202,Apartamentos,96.0,450000.0,3,3,2,Jóquei
+2203,Apartamentos,60.0,220000.0,2,2,1,Uruguai
+2204,Apartamentos,161.0,1270000.0,4,4,2,Fátima
+2205,Apartamentos,66.0,315000.0,3,2,1,Gurupi
+2206,Casas,200.0,410000.0,3,1,2,Itararé
+2207,Apartamentos,75.0,310000.0,3,2,1,Santa Isabel
+2208,Apartamentos,56.0,228000.0,2,2,2,São Cristóvão
+2210,Casas,136.0,280000.0,4,2,2,Lourival Parente
+2211,Apartamentos,67.0,140000.0,2,2,1,Novo Horizonte
+2212,Casas,182.0,980000.0,4,3,2,Horto
+2213,Apartamentos,66.0,275000.0,3,2,1,São Cristóvão
+2214,Casas,145.0,700000.0,4,5,3,Morros
+2215,Apartamentos,74.0,360000.0,4,2,2,São João
+2216,Casas,102.0,474260.0,4,4,2,Morros
+2217,Casas,220.0,1200000.0,5,3,4,Zoobotânico
+2218,Apartamentos,66.0,260000.0,2,2,1,Uruguai
+2219,Apartamentos,89.0,564990.0,3,3,2,Fátima
+2220,Casas,303.0,850000.0,4,5,4,Jóquei
+2221,Apartamentos,60.0,210000.0,2,2,1,Uruguai
+2222,Apartamentos,71.0,490000.0,3,3,2,Uruguai
+2223,Apartamentos,94.0,580000.0,3,2,2,Monte Castelo
+2224,Casas,160.0,1200000.0,3,4,4,Gurupi
+2227,Apartamentos,50.0,140000.0,2,1,1,Santa Rosa
+2228,Apartamentos,190.0,1300000.0,4,1,3,Fátima
+2229,Apartamentos,82.0,460000.0,3,1,2,Noivos
+2230,Apartamentos,72.0,390000.0,3,1,1,Recanto das Palmeiras
+2231,Apartamentos,224.0,1800000.0,3,5,3,Jóquei
+2232,Apartamentos,70.0,366145.0,3,2,1,Cabral
+2233,Casas,143.0,400000.0,3,2,3,Vale do Gavião
+2234,Apartamentos,136.0,1137479.0,3,3,3,Fátima
+2235,Apartamentos,64.0,390000.0,3,1,1,Cristo Rei
+2236,Casas,180.0,490000.0,3,3,2,Jóquei
+2237,Casas,88.0,420000.0,3,3,2,Morros
+2238,Casas,200.0,700000.0,3,4,4,São Cristóvão
+2239,Apartamentos,77.0,320000.0,3,3,1,Campestre
+2240,Casas,180.0,800000.0,3,4,3,Aeroporto
+2241,Apartamentos,48.0,191224.0,2,1,1,Uruguai
+2242,Casas,67.0,335000.0,3,2,2,Tabajaras
+2243,Apartamentos,208.0,1780000.0,3,3,3,Jóquei
+2244,Apartamentos,74.0,440000.0,3,2,1,Santa Isabel
+2245,Apartamentos,85.0,490000.0,3,3,2,Ilhotas
+2246,Casas,250.0,800000.0,3,5,5,Planalto
+2247,Apartamentos,70.0,300000.0,3,3,1,Planalto
+2248,Apartamentos,48.0,160000.0,2,1,1,Novo Horizonte
+2249,Apartamentos,48.0,135000.0,2,1,1,Vale do Gavião
+2250,Apartamentos,43.0,150000.0,2,1,1,Uruguai
+2252,Casas,350.0,550000.0,3,4,4,Campestre
+2253,Apartamentos,48.0,150000.0,2,1,1,Morada do Sol
+2256,Apartamentos,70.0,220000.0,3,2,1,Cristo Rei
+2257,Apartamentos,96.0,550000.0,3,1,2,Jóquei
+2258,Casas,61.0,330000.0,3,2,2,Socopo
+2259,Casas,240.0,750000.0,4,4,5,Morada do Sol
+2260,Apartamentos,50.0,244695.0,2,2,1,Uruguai
+2261,Apartamentos,124.0,690000.0,3,2,2,Jóquei
+2262,Casas,170.0,495000.0,3,4,2,Morros
+2263,Casas,232.0,700000.0,5,4,2,Ininga
+2264,Casas,210.0,600000.0,4,4,2,Santa Lia
+2265,Apartamentos,71.0,379000.0,3,2,2,Noivos
+2266,Apartamentos,224.0,1800000.0,3,4,3,Jóquei
+2267,Apartamentos,74.0,355000.0,3,2,1,Santa Isabel
+2268,Casas,150.0,560000.0,4,4,5,Santa Isabel
+2269,Apartamentos,166.0,900000.0,3,3,2,Fátima
+2270,Casas,226.0,570000.0,4,5,5,Fátima
+2271,Casas,630.0,650000.0,3,3,3,Campestre
+2272,Apartamentos,105.0,780000.0,4,2,2,Fátima
+2273,Apartamentos,304.0,1900000.0,4,5,4,Jóquei
+2274,Apartamentos,77.0,390000.0,2,2,2,Noivos
+2275,Apartamentos,220.0,950000.0,4,4,4,Fátima
+2276,Apartamentos,220.0,950000.0,4,4,4,Fátima
+2277,Apartamentos,304.0,2300000.0,4,5,4,Jóquei
+2278,Apartamentos,87.0,527000.0,3,1,2,Ilhotas
+2279,Apartamentos,91.0,560000.0,3,3,2,Fátima
+2280,Apartamentos,50.0,180000.0,2,1,1,Uruguai
+2281,Apartamentos,85.0,580000.0,2,3,2,Jóquei
+2282,Apartamentos,48.0,120000.0,2,1,1,Tabajaras
+2283,Apartamentos,77.0,300000.0,3,2,1,Horto
+2284,Apartamentos,218.0,1350000.0,3,3,3,Jóquei
+2285,Apartamentos,218.0,1350000.0,3,3,3,Jóquei
+2286,Apartamentos,49.0,145000.0,2,1,1,Itararé
+2288,Apartamentos,99.0,450000.0,3,3,2,Ininga
+2289,Apartamentos,73.0,390000.0,3,2,1,Triunfo
+2290,Casas,199.0,550000.0,3,3,2,Centro
+2293,Apartamentos,60.0,230000.0,3,2,2,Santa Lia
+2294,Apartamentos,59.0,226000.0,3,2,1,Vale Quem Tem
+2295,Casas,170.0,275000.0,3,2,1,Boa Esperança
+2296,Apartamentos,77.0,650000.0,3,1,2,Horto
+2297,Casas,151.0,750000.0,4,4,2,Gurupi
+2298,Apartamentos,155.0,400000.0,3,3,1,Frei Serafim
+2299,Apartamentos,65.0,300000.0,3,2,2,Recanto das Palmeiras
+2300,Casas,250.0,1750000.0,4,4,4,Uruguai
+2301,Apartamentos,52.0,160000.0,2,1,1,Uruguai
+2302,Apartamentos,45.0,210000.0,2,1,1,Vale Quem Tem
+2303,Apartamentos,150.0,850000.0,4,5,3,Fátima
+2304,Casas,160.0,180000.0,2,1,2,Vale Quem Tem
+2305,Apartamentos,68.0,360000.0,3,1,1,Gurupi
+2306,Apartamentos,58.0,268600.0,2,2,1,Horto
+2307,Apartamentos,86.0,900000.0,3,2,2,São Cristóvão
+2308,Apartamentos,182.0,1200000.0,4,5,2,Jóquei
+2309,Apartamentos,74.0,210000.0,3,2,1,Ilhotas
+2310,Apartamentos,45.0,130000.0,2,1,1,Vale Quem Tem
+2312,Casas,500.0,950000.0,3,4,5,Verde Lar
+2313,Apartamentos,59.0,230000.0,3,4,1,Santa Lia
+2314,Apartamentos,49.0,190000.0,2,1,1,Uruguai
+2315,Apartamentos,58.0,195000.0,2,1,1,Uruguai
+2316,Casas,180.0,900000.0,4,4,2,Gurupi
+2317,Casas,143.0,480000.0,3,2,2,Vermelha
+2318,Apartamentos,46.0,135000.0,2,1,1,Centro
+2319,Apartamentos,57.0,264000.0,2,2,1,Cristo Rei
+2320,Apartamentos,77.0,230000.0,3,3,1,Campestre
+2321,Apartamentos,70.0,325000.0,3,2,2,Morros
+2322,Apartamentos,51.0,230000.0,2,2,1,Vale Quem Tem
+2323,Casas,141.0,310000.0,2,1,2,Saci
+2324,Casas,137.0,320000.0,3,2,2,Mocambinho
+2325,Casas,258.0,750000.0,4,5,3,Santa Isabel
+2326,Apartamentos,65.0,250000.0,3,2,1,Cristo Rei
+2327,Apartamentos,48.0,185000.0,2,1,1,Parque Ideal
+2328,Apartamentos,45.0,130000.0,3,4,1,Vale do Gavião
+2329,Apartamentos,225.0,2414100.0,4,5,5,Ininga
+2330,Casas,120.0,240000.0,3,1,2,Primavera
+2331,Casas,215.0,1200000.0,3,5,4,Santa Isabel
+2332,Casas,260.0,800000.0,4,5,5,Cristo Rei
+2333,Apartamentos,128.0,1150000.0,3,4,2,Ininga
+2334,Casas,365.0,1500000.0,5,5,5,Ininga
+2336,Apartamentos,70.0,485000.0,3,2,2,São Cristóvão
+2337,Casas,114.0,460000.0,4,2,3,Primavera
+2338,Casas,99.0,420000.0,3,3,2,Gurupi
+2339,Apartamentos,92.0,235000.0,2,1,1,Nossa Senhora das Graças
+2340,Apartamentos,110.0,640000.0,3,2,2,Horto
+2341,Casas,132.0,550000.0,3,3,4,Macaúba
+2342,Apartamentos,66.0,220000.0,2,2,1,Vale Quem Tem
+2343,Apartamentos,198.0,1400000.0,3,1,2,Ilhotas
+2344,Apartamentos,102.0,420000.0,2,2,2,São Cristóvão
+2345,Casas,187.0,700000.0,3,3,2,Memorare
+2346,Casas,300.0,160000.0,2,1,2,Santo Antônio
+2348,Apartamentos,59.0,110000.0,2,1,1,Cidade Nova
+2349,Apartamentos,64.0,220000.0,2,2,1,São Cristóvão
+2350,Apartamentos,85.0,535000.0,3,2,2,Ilhotas
+2351,Apartamentos,56.0,288100.0,2,2,1,Macaúba
+2352,Casas,182.0,980000.0,4,4,2,Horto
+2353,Casas,76.0,290000.0,3,3,2,Morros
+2354,Casas,76.0,290000.0,3,3,2,Morros
+2355,Casas,76.0,290000.0,3,3,2,Morros
+2356,Casas,76.0,290000.0,3,3,2,Morros
+2357,Apartamentos,178.0,1200000.0,4,5,3,Horto
+2358,Casas,151.0,750000.0,4,4,2,Gurupi
+2359,Apartamentos,74.0,355000.0,3,2,1,Santa Isabel
+2360,Apartamentos,66.0,315000.0,3,2,1,Gurupi
+2362,Apartamentos,66.0,315000.0,3,2,1,Gurupi
+2363,Casas,180.0,500000.0,3,1,3,Saci
+2364,Apartamentos,66.0,315000.0,3,2,1,Gurupi
+2365,Casas,520.0,2400000.0,3,3,4,Uruguai
+2366,Casas,200.0,590000.0,4,3,4,Satélite
+2367,Apartamentos,55.0,140000.0,2,2,1,Colorado
+2369,Casas,440.0,1300000.0,4,5,4,Socopo
+2370,Apartamentos,196.0,1100000.0,4,5,3,Cristo Rei
+2371,Apartamentos,107.0,550000.0,3,2,2,Horto
+2372,Casas,160.0,1200000.0,3,4,2,Uruguai
+2373,Apartamentos,79.0,735000.0,2,3,2,Fátima
+2374,Apartamentos,130.0,280000.0,3,2,1,Vermelha
+2375,Casas,200.0,210000.0,2,2,1,Cidade Jardim
+2376,Casas,233.0,970000.0,4,3,4,Santa Isabel
+2377,Apartamentos,80.0,560000.0,3,2,2,Ininga
+2378,Apartamentos,60.0,275000.0,2,2,1,Uruguai
+2379,Casas,92.0,444900.0,3,3,2,Morros
+2380,Apartamentos,85.0,535000.0,3,2,2,Ilhotas
+2381,Apartamentos,80.0,265000.0,2,2,1,Cristo Rei
+2382,Apartamentos,59.0,215000.0,3,2,2,Santa Lia
+2383,Casas,355.0,680000.0,4,5,3,Centro
+2384,Casas,329.0,2750000.0,3,5,4,Uruguai
+2385,Apartamentos,59.0,330000.0,3,2,1,Jóquei
+2387,Apartamentos,56.0,280000.0,3,2,1,Gurupi
+2388,Casas,88.0,420000.0,3,2,2,Morros
+2389,Apartamentos,46.0,135000.0,2,1,1,Centro
+2390,Apartamentos,48.0,165000.0,2,2,1,Gurupi
+2391,Casas,400.0,550000.0,4,3,4,Vermelha
+2392,Apartamentos,48.0,140000.0,2,1,1,Todos os Santos
+2393,Casas,58.0,260000.0,2,1,2,Lourival Parente
+2394,Apartamentos,58.0,150000.0,3,1,1,Santa Isabel
+2395,Casas,160.0,680000.0,4,4,2,Morros
+2396,Casas,280.0,1400000.0,4,4,5,Ininga
+2398,Casas,182.0,980000.0,4,4,2,Horto
+2399,Casas,160.0,300000.0,3,3,2,Itararé
+2400,Casas,520.0,2400000.0,3,3,4,Uruguai
+2401,Casas,65.0,165000.0,2,1,1,Santa Maria
+2402,Apartamentos,104.0,695000.0,3,3,2,Ilhotas
+2403,Apartamentos,440.0,1300000.0,4,5,4,Socopo
+2404,Casas,200.0,850000.0,4,4,2,Santa Isabel
+2405,Casas,240.0,750000.0,4,4,5,Morada do Sol
+2406,Casas,151.0,750000.0,4,4,2,Gurupi
+2407,Casas,287.0,850000.0,5,5,4,São João
+2408,Casas,246.0,1500000.0,3,4,4,Uruguai
+2409,Casas,322.0,1299000.0,4,4,5,Ininga
+2411,Casas,600.0,2980000.0,5,5,4,Uruguai
+2412,Casas,200.0,850000.0,4,4,4,Santa Isabel
+2413,Casas,200.0,870000.0,4,5,5,Ininga
+2415,Casas,180.0,470000.0,3,3,2,Ininga
+2416,Casas,226.0,750000.0,4,5,5,Fátima
+2417,Apartamentos,160.0,1600000.0,3,1,2,Jóquei
+2418,Apartamentos,106.0,820000.0,3,1,2,Horto
+2419,Casas,180.0,770000.0,4,4,2,Morros
+2420,Apartamentos,85.0,320000.0,3,3,1,Noivos
+2421,Casas,180.0,470000.0,3,1,2,Ininga
+2422,Casas,243.0,1350000.0,4,1,2,Morros
+2423,Apartamentos,58.0,510000.0,1,1,1,Jóquei
+2424,Apartamentos,99.0,240000.0,2,1,1,Morros
+2425,Apartamentos,225.0,2121900.0,4,1,4,Jóquei
+2426,Casas,220.0,1550000.0,4,4,2,Uruguai
+2427,Apartamentos,51.0,250000.0,2,1,1,Aeroporto
+2428,Casas,300.0,1300000.0,4,5,5,Gurupi
+2429,Casas,208.0,1250000.0,4,4,4,Morros
+2430,Apartamentos,86.0,562990.0,3,4,2,Jóquei
+2431,Apartamentos,56.0,288100.0,2,2,1,Macaúba
+2432,Apartamentos,56.0,288100.0,2,2,1,Macaúba
+2433,Apartamentos,74.0,355000.0,3,2,1,Santa Isabel
+2434,Apartamentos,66.0,315000.0,3,2,1,Gurupi
+2435,Casas,480.0,350000.0,4,1,5,Santa Cruz
+2436,Casas,300.0,350000.0,2,1,2,Recanto das Palmeiras
+2437,Apartamentos,67.0,360000.0,3,3,1,Ininga
+2438,Apartamentos,56.0,288100.0,2,2,1,Macaúba
+2439,Casas,160.0,680000.0,4,5,2,Morros
+2440,Apartamentos,56.0,288100.0,2,2,1,Macaúba
+2441,Apartamentos,83.0,650000.0,3,3,2,Jóquei
+2442,Apartamentos,86.0,480000.0,3,3,2,Ininga
+2443,Casas,100.0,439000.0,3,3,2,Morros
+2444,Apartamentos,112.0,130000.0,3,2,1,Vermelha
+2445,Apartamentos,68.0,250000.0,3,2,1,Recanto das Palmeiras
+2447,Apartamentos,63.0,270000.0,3,2,2,Uruguai
+2448,Apartamentos,62.0,380000.0,2,2,1,Fátima
+2450,Apartamentos,49.0,170000.0,2,2,1,Vale Quem Tem
+2451,Apartamentos,208.0,850000.0,4,3,2,Ilhotas
+2452,Casas,40.0,125000.0,2,1,2,Novo Horizonte
+2453,Casas,200.0,165000.0,2,1,1,Itararé
+2454,Casas,24.0,230000.0,1,1,3,Santa Cruz
+2455,Casas,351.0,1800000.0,5,5,5,Santa Isabel
+2456,Apartamentos,77.0,300000.0,2,3,1,Uruguai
+2457,Casas,103.0,290000.0,3,2,4,Itararé
+2458,Apartamentos,40.0,130000.0,2,1,1,Gurupi
+2460,Apartamentos,115.0,230000.0,2,3,1,Aeroporto
+2461,Apartamentos,40.0,150000.0,2,1,1,Gurupi
+2462,Apartamentos,77.0,360000.0,3,2,1,Noivos
+2464,Apartamentos,255.0,1800000.0,4,5,3,Horto
+2465,Apartamentos,101.0,370000.0,2,2,1,São Cristóvão
+2466,Apartamentos,177.0,1100000.0,4,5,2,Centro
+2467,Apartamentos,64.0,380000.0,3,2,2,Gurupi
+2468,Apartamentos,62.0,435000.0,2,3,1,Recanto das Palmeiras
+2469,Apartamentos,224.0,1800000.0,3,4,3,Jóquei
+2470,Apartamentos,124.0,690000.0,3,2,2,Jóquei
+2471,Apartamentos,105.0,750000.0,3,2,2,Fátima
+2472,Apartamentos,77.0,345000.0,3,3,1,Morada do Sol
+2473,Apartamentos,210.0,1100000.0,3,4,4,Fátima
+2474,Apartamentos,60.0,230000.0,2,2,1,Campestre
+2475,Apartamentos,141.0,1174400.0,3,4,2,São Cristóvão
+2476,Apartamentos,304.0,1900000.0,4,5,4,Jóquei
+2477,Apartamentos,74.0,355000.0,3,2,1,Santa Isabel
+2478,Casas,76.0,290000.0,3,1,2,Morros
+2479,Apartamentos,224.0,1800000.0,3,4,3,Jóquei
+2480,Apartamentos,105.0,750000.0,3,2,2,Fátima
+2481,Apartamentos,77.0,345000.0,3,3,1,Morada do Sol
+2482,Apartamentos,210.0,1100000.0,3,4,4,Fátima
+2483,Apartamentos,56.0,288100.0,2,2,1,Macaúba
+2484,Apartamentos,67.0,285000.0,3,2,1,Planalto
+2485,Apartamentos,141.0,1174400.0,3,4,3,São Cristóvão
+2486,Apartamentos,60.0,200000.0,2,2,1,Campestre
+2487,Apartamentos,74.0,355000.0,3,2,1,Santa Isabel
+2488,Casas,225.0,500000.0,3,2,3,São Cristóvão
+2489,Casas,200.0,590000.0,4,3,4,Satélite
+2490,Casas,169.0,430000.0,3,3,4,Vale Quem Tem
+2491,Casas,380.0,650000.0,4,5,4,São Cristóvão
+2492,Casas,400.0,1300000.0,4,4,2,Gurupi
+2493,Casas,103.0,620000.0,3,2,2,Campestre
+2494,Apartamentos,152.0,800000.0,4,5,2,Samapi
+2495,Apartamentos,74.0,300000.0,3,2,1,Santa Isabel
+2496,Apartamentos,77.0,150000.0,3,2,2,Uruguai
+2497,Apartamentos,160.0,1600000.0,3,4,3,Jóquei
+2498,Casas,175.0,890000.0,4,5,4,Gurupi
+2499,Apartamentos,76.0,336000.0,3,2,2,Uruguai
+2500,Casas,520.0,2400000.0,3,3,4,Uruguai
+2501,Casas,131.0,405000.0,3,3,4,Morros
+2502,Apartamentos,47.0,125000.0,2,1,1,Lourival Parente
+2503,Apartamentos,107.0,760000.0,3,4,2,Jóquei
+2504,Apartamentos,72.0,390000.0,3,2,2,Recanto das Palmeiras
+2505,Apartamentos,78.0,416000.0,3,2,2,Cristo Rei
+2506,Casas,90.0,330000.0,2,1,2,Vale Quem Tem
+2508,Apartamentos,47.0,180000.0,2,1,1,Uruguai
+2509,Casas,281.0,980000.0,5,5,4,Horto
+2510,Casas,182.0,980000.0,4,4,2,Horto
+2511,Casas,123.0,685846.0,3,4,2,Morros
+2512,Casas,70.0,370000.0,3,2,2,Gurupi
+2513,Apartamentos,64.0,380000.0,3,2,2,Gurupi
+2514,Casas,224.0,780000.0,3,2,2,Ininga
+2515,Casas,200.0,870000.0,4,5,5,Ininga
+2516,Apartamentos,78.0,478000.0,3,3,2,Monte Castelo
+2517,Casas,290.0,1300000.0,3,4,5,Ininga
+2518,Casas,240.0,750000.0,4,4,5,Morada do Sol
+2520,Casas,99.0,380000.0,3,2,2,Gurupi
+2521,Casas,220.0,1400000.0,4,3,3,Morros
+2522,Apartamentos,55.0,230000.0,2,2,1,Gurupi
+2523,Casas,180.0,650000.0,3,3,2,Morros
+2524,Apartamentos,68.0,386732.0,3,2,2,Três Andares
+2525,Apartamentos,225.0,2163425.0,4,5,4,Jóquei
+2526,Apartamentos,49.0,135000.0,2,1,1,Uruguai
+2527,Casas,87.0,403000.0,3,3,1,Morros
+2528,Apartamentos,130.0,1161659.0,3,4,3,Jóquei
+2531,Apartamentos,119.0,749000.0,1,1,2,Fátima
+2532,Apartamentos,195.0,1500000.0,4,5,2,Jóquei
+2533,Apartamentos,205.0,1200000.0,4,5,3,Jóquei
+2534,Apartamentos,77.0,425000.0,3,3,2,Ininga
+2535,Apartamentos,108.0,680000.0,3,3,2,Noivos
+2536,Casas,182.0,987000.0,4,4,2,Horto
+2538,Apartamentos,59.0,350000.0,3,1,1,Recanto das Palmeiras
+2539,Apartamentos,99.0,250000.0,3,2,1,Horto
+2540,Casas,34.0,280000.0,2,1,1,Itararé
+2541,Casas,275.0,230000.0,1,1,2,Buenos Aires
+2542,Apartamentos,106.0,780000.0,3,3,2,Jóquei
+2544,Casas,110.0,390000.0,3,3,3,Piçarreira
+2546,Apartamentos,70.0,750000.0,3,2,2,Jóquei
+2548,Casas,180.0,500000.0,3,2,3,Saci
+2549,Apartamentos,107.0,860000.0,3,5,2,Jóquei
+2550,Apartamentos,74.0,495000.0,2,2,1,Santa Isabel
+2552,Casas,280.0,1400000.0,4,4,5,Ininga
+2553,Casas,190.0,325000.0,4,3,1,Saci
+2554,Casas,237.0,850000.0,4,4,2,Jóquei
+2555,Casas,237.0,1400000.0,4,4,5,Ininga
+2556,Casas,180.0,650000.0,3,4,5,São Pedro
+2557,Apartamentos,141.0,1270000.0,3,4,2,Fátima
+2558,Apartamentos,186.0,1179945.0,4,5,3,Noivos
+2559,Casas,440.0,1300000.0,4,5,4,Socopo
+2560,Casas,293.0,2000000.0,4,5,2,Uruguai
+2561,Apartamentos,62.0,435000.0,2,3,1,Recanto das Palmeiras
+2562,Apartamentos,128.0,1000000.0,3,4,2,Fátima
+2563,Apartamentos,227.0,1900000.0,3,4,4,Jóquei
+2564,Apartamentos,124.0,690000.0,3,2,2,Jóquei
+2565,Apartamentos,255.0,1800000.0,4,5,3,Horto
+2566,Apartamentos,177.0,1100000.0,4,5,2,Centro
+2567,Apartamentos,101.0,370000.0,2,2,1,São Cristóvão
+2568,Apartamentos,32.0,297600.0,1,2,1,Horto
+2569,Apartamentos,60.0,340000.0,2,2,1,Ininga
+2570,Apartamentos,107.0,760000.0,4,4,2,Jóquei
+2571,Apartamentos,74.0,355000.0,3,2,1,Santa Isabel
+2572,Apartamentos,67.0,225000.0,2,2,1,São Cristóvão
+2573,Casas,300.0,140000.0,4,4,2,Aroeiras
+2574,Apartamentos,72.0,360990.0,3,1,2,São João
+2575,Apartamentos,137.0,900000.0,3,4,2,Jóquei
+2576,Apartamentos,74.0,470000.0,2,2,1,Santa Isabel
+2577,Casas,106.0,345000.0,3,2,1,Verde Lar
+2578,Apartamentos,127.0,1150000.0,3,4,2,Fátima
+2579,Apartamentos,77.0,370000.0,2,2,1,Campestre
+2580,Apartamentos,68.0,230000.0,3,2,1,Recanto das Palmeiras
+2581,Apartamentos,47.0,170000.0,2,1,1,Lourival Parente
+2582,Casas,250.0,1750000.0,4,4,4,Uruguai
+2583,Casas,120.0,620000.0,4,4,2,Gurupi
+2584,Casas,246.0,1500000.0,4,5,2,Uruguai
+2585,Apartamentos,46.0,150000.0,2,1,1,Santa Maria
+2586,Apartamentos,61.0,280000.0,2,1,1,Santa Isabel
+2587,Casas,70.0,200000.0,3,1,1,Vale do Gavião
+2588,Casas,200.0,650000.0,4,2,3,Morada do Sol
+2590,Casas,140.0,235000.0,4,4,2,Morros
+2591,Apartamentos,77.0,366500.0,3,1,2,Cristo Rei
+2592,Casas,300.0,1300000.0,4,5,5,Gurupi
+2594,Casas,220.0,650000.0,3,1,2,Morada do Sol
+2595,Apartamentos,45.0,130000.0,2,1,1,Santa Maria
+2596,Apartamentos,303.0,2750000.0,4,1,4,Jóquei
+2597,Apartamentos,50.0,162000.0,2,1,1,Santa Isabel
+2598,Casas,100.0,600000.0,3,2,4,Santa Isabel
+2599,Apartamentos,77.0,360000.0,3,2,1,Noivos
+2600,Casas,226.0,750000.0,4,5,5,Fátima
+2601,Apartamentos,72.0,460000.0,2,3,2,São Cristóvão
+2602,Apartamentos,62.0,290000.0,3,2,2,São João
+2603,Casas,250.0,799000.0,3,4,4,Ininga
+2605,Apartamentos,59.0,220000.0,3,2,1,Parque Ideal
+2606,Casas,76.0,290000.0,3,3,2,Morros
+2607,Apartamentos,128.0,530000.0,3,2,2,São João
+2608,Casas,97.0,411500.0,3,4,2,Morros
+2609,Casas,390.0,550000.0,3,1,3,Horto
+2610,Casas,137.0,860000.0,4,5,3,Morros
+2611,Apartamentos,99.0,250000.0,3,3,1,Santa Isabel
+2612,Apartamentos,66.0,315000.0,3,2,1,Gurupi
+2613,Apartamentos,89.0,350000.0,3,3,2,Morada do Sol
+2614,Apartamentos,45.0,199000.0,2,2,1,Uruguai
+2615,Casas,76.0,290000.0,3,3,2,Morros
+2616,Casas,76.0,290000.0,3,3,2,Morros
+2617,Casas,76.0,290000.0,3,3,2,Morros
+2618,Casas,270.0,1600000.0,4,4,2,Uruguai
+2619,Casas,76.0,290000.0,3,3,2,Morros
+2620,Casas,246.0,1500000.0,3,4,4,Uruguai
+2621,Apartamentos,81.0,730000.0,3,2,2,Jóquei
+2622,Apartamentos,102.0,250000.0,3,3,2,Campestre
+2624,Apartamentos,168.0,1600000.0,3,4,2,Jóquei
+2625,Apartamentos,60.0,285000.0,2,3,1,Santa Isabel
+2626,Apartamentos,60.0,200000.0,3,2,1,Vale Quem Tem
+2627,Casas,200.0,870000.0,4,5,5,Ininga
+2628,Apartamentos,48.0,130000.0,3,1,1,Santa Isabel
+2629,Casas,230.0,650000.0,4,3,2,Piçarreira
+2630,Apartamentos,180.0,1700000.0,4,4,3,São Cristóvão
+2631,Apartamentos,99.0,200000.0,2,2,1,Cristo Rei
+2632,Apartamentos,59.0,279000.0,3,2,1,Recanto das Palmeiras
+2633,Apartamentos,119.0,630000.0,3,3,2,Fátima
+2635,Apartamentos,110.0,290000.0,3,2,2,São Pedro
+2636,Apartamentos,80.0,750000.0,3,2,2,Jóquei
+2637,Casas,424.0,1300000.0,5,5,4,Socopo
+2638,Casas,287.0,850000.0,5,5,4,São João
+2639,Casas,76.0,290000.0,3,3,2,Morros
+2640,Apartamentos,78.0,350000.0,3,3,2,Jóquei
+2641,Apartamentos,83.0,495000.0,3,2,2,Planalto
+2642,Apartamentos,128.0,1000000.0,3,4,2,Fátima
+2643,Apartamentos,89.0,350000.0,3,3,2,Morada do Sol
+2644,Casas,169.0,430000.0,3,3,4,Vale Quem Tem
+2645,Casas,146.0,390000.0,3,1,2,Primavera
+2646,Apartamentos,56.0,288100.0,2,2,1,Macaúba
+2647,Casas,225.0,500000.0,3,2,4,São Cristóvão
+2648,Casas,200.0,590000.0,4,3,4,Satélite
+2649,Casas,200.0,590000.0,4,3,4,Satélite
+2650,Casas,103.0,620000.0,3,2,2,Campestre
+2651,Casas,250.0,420000.0,5,5,3,Verde Lar
+2652,Apartamentos,72.0,460000.0,2,3,2,São Cristóvão
+2653,Casas,380.0,650000.0,4,5,4,São Cristóvão
+2656,Apartamentos,62.0,290000.0,3,2,2,São João
+2657,Casas,347.0,780000.0,4,4,4,Noivos
+2658,Casas,287.0,850000.0,5,5,4,São João
+2659,Casas,246.0,1500000.0,3,4,4,Uruguai
+2660,Casas,140.0,700000.0,3,2,4,Fátima
+2661,Casas,200.0,870000.0,4,5,5,Ininga
+2662,Casas,520.0,2400000.0,3,3,4,Uruguai
+2663,Casas,668.0,930000.0,4,5,5,Ininga
+2664,Casas,322.0,1299000.0,4,4,5,Ininga
+2665,Casas,76.0,290000.0,3,3,2,Morros
+2666,Casas,157.0,330000.0,4,1,2,Matadouro
+2667,Apartamentos,72.0,375000.0,3,2,2,Morros
+2668,Casas,226.0,750000.0,4,5,5,Fátima
+2669,Apartamentos,155.0,400000.0,3,3,1,Frei Serafim
+2670,Apartamentos,57.0,201000.0,3,2,1,Jóquei
+2671,Casas,196.0,570000.0,4,4,4,Fátima
+2672,Apartamentos,127.0,1100000.0,3,3,2,Fátima
+2674,Apartamentos,107.0,860000.0,3,4,2,Jóquei
+2675,Casas,600.0,2980000.0,5,5,4,Uruguai
+2676,Casas,200.0,380000.0,3,1,2,Saci
+2677,Apartamentos,200.0,1400000.0,4,5,4,Jóquei
+2678,Apartamentos,107.0,760000.0,3,4,2,Jóquei
+2680,Apartamentos,244.0,2000000.0,4,5,3,São Cristóvão
+2681,Apartamentos,224.0,1800000.0,3,4,3,Jóquei
+2682,Casas,345.0,650000.0,3,3,4,Jóquei
+2683,Casas,190.0,325000.0,4,3,1,Saci
+2684,Apartamentos,227.0,2000000.0,4,5,4,Jóquei
+2685,Apartamentos,162.0,850000.0,2,2,3,Jóquei
+2686,Apartamentos,64.0,380000.0,3,2,2,Gurupi
+2687,Apartamentos,141.0,1270000.0,3,4,3,Fátima
+2688,Casas,130.0,190000.0,3,1,1,Itararé
+2689,Apartamentos,304.0,1900000.0,4,5,4,Jóquei
+2690,Apartamentos,98.0,250000.0,4,3,2,Campestre
+2691,Casas,134.0,600000.0,4,2,3,Horto
+2692,Apartamentos,91.0,640000.0,3,2,2,Morada do Sol
+2693,Apartamentos,77.0,345000.0,3,3,1,Morada do Sol
+2694,Apartamentos,210.0,1100000.0,3,4,4,Fátima
+2695,Apartamentos,64.0,390000.0,3,2,2,Cristo Rei
+2696,Apartamentos,75.0,215000.0,3,3,1,Cristo Rei
+2697,Apartamentos,60.0,200000.0,2,2,1,Campestre
+2698,Apartamentos,141.0,1174400.0,3,4,3,São Cristóvão
+2699,Casas,442.0,2600000.0,4,5,5,Uruguai
+2700,Casas,112.0,549000.0,3,4,2,Piçarreira
+2701,Apartamentos,45.0,199000.0,2,2,1,Uruguai
+2702,Apartamentos,59.0,220000.0,3,2,1,Novo Horizonte
+2703,Apartamentos,90.0,370000.0,2,2,1,São João
+2704,Apartamentos,119.0,950000.0,3,4,2,São Cristóvão
+2705,Apartamentos,227.0,1900000.0,3,4,4,Jóquei
+2706,Apartamentos,127.0,1250000.0,3,3,2,Fátima
+2707,Casas,77.0,280000.0,3,2,2,Morros
+2708,Casas,170.0,1150000.0,4,4,2,Horto
+2710,Apartamentos,74.0,415000.0,3,2,1,Santa Isabel
+2711,Apartamentos,72.0,390000.0,3,2,2,Recanto das Palmeiras
+2713,Apartamentos,97.0,560000.0,2,2,1,Fátima
+2714,Apartamentos,180.0,1800000.0,3,2,3,São Cristóvão
+2715,Apartamentos,98.0,570000.0,3,2,2,Horto
+2716,Casas,112.0,390000.0,4,2,3,Gurupi
+2717,Casas,135.0,650000.0,3,2,3,Jóquei
+2718,Apartamentos,55.0,170000.0,2,2,1,Uruguai
+2719,Apartamentos,101.0,370000.0,2,2,1,São Cristóvão
+2720,Apartamentos,177.0,1100000.0,4,5,2,Centro
+2721,Casas,250.0,1750000.0,4,5,2,Uruguai
+2722,Casas,110.0,330000.0,3,2,2,Mocambinho
+2723,Apartamentos,84.0,380000.0,3,2,1,Fátima
+2724,Apartamentos,105.0,750000.0,3,2,2,Fátima
+2725,Apartamentos,98.0,570000.0,3,2,2,Horto
+2726,Apartamentos,73.0,259400.0,3,2,1,Triunfo
+2727,Apartamentos,202.0,1200000.0,5,5,3,Fátima
+2728,Apartamentos,51.0,209330.0,2,2,1,Uruguai
+2729,Apartamentos,59.0,309000.0,3,1,1,Recanto das Palmeiras
+2730,Apartamentos,49.0,170000.0,2,1,1,Piçarra
+2731,Casas,107.0,589325.0,4,4,2,Morros
+2732,Apartamentos,119.0,1170000.0,3,4,2,Jóquei
+2733,Apartamentos,128.0,1000000.0,3,4,2,Fátima
+2734,Casas,227.0,750000.0,4,2,2,Santa Isabel
+2735,Apartamentos,255.0,1800000.0,4,5,3,Horto
+2736,Apartamentos,141.0,1270000.0,3,4,3,Fátima
+2737,Casas,280.0,1400000.0,4,4,5,Ininga
+2739,Casas,132.0,271900.0,3,3,2,Morros
+2740,Apartamentos,45.0,170000.0,2,1,1,Santa Maria
+2741,Apartamentos,227.0,1900000.0,3,4,4,Jóquei
+2742,Apartamentos,145.0,750000.0,3,4,3,Recanto das Palmeiras
+2744,Casas,52.0,180000.0,2,1,2,Vale do Gavião
+2745,Casas,223.0,850000.0,4,5,5,Ininga
+2746,Apartamentos,52.0,298000.0,2,1,1,São Cristóvão
+2747,Casas,146.0,160000.0,3,1,1,Parque Brasil
+2748,Apartamentos,202.0,1200000.0,5,5,3,Fátima
+2749,Apartamentos,480.0,2600000.0,5,5,4,Uruguai
+2750,Casas,303.0,850000.0,4,5,4,Jóquei
+2751,Apartamentos,81.0,700000.0,3,1,1,Ininga
+2752,Apartamentos,80.0,520000.0,2,1,2,Uruguai
+2753,Apartamentos,62.0,435000.0,2,3,1,Recanto das Palmeiras
+2755,Apartamentos,127.0,1150000.0,3,4,2,Horto
+2756,Casas,146.0,390000.0,3,1,2,Alto Alegre
+2757,Casas,88.0,160000.0,3,2,3,Parque Brasil
+2758,Apartamentos,190.0,850000.0,3,3,2,Ininga
+2759,Casas,186.0,850000.0,3,3,2,Ininga
+2760,Casas,68.0,350000.0,2,1,3,Recanto das Palmeiras
+2761,Apartamentos,70.0,320000.0,3,1,1,Ininga
+2762,Apartamentos,56.0,228015.0,3,1,1,São Cristóvão
+2763,Apartamentos,101.0,617000.0,3,3,2,Ilhotas
+2764,Apartamentos,75.0,235000.0,3,3,1,Vila Operária
+2765,Casas,480.0,1250000.0,5,5,4,Recanto das Palmeiras
+2766,Casas,100.0,250000.0,3,1,1,Centro
+2767,Apartamentos,94.0,320000.0,1,2,1,Noivos
+2768,Apartamentos,61.0,165000.0,2,1,1,Itararé
+2769,Apartamentos,105.0,650000.0,3,2,2,Fátima
+2770,Apartamentos,145.0,750000.0,3,3,3,Santa Isabel
+2773,Apartamentos,119.0,1170000.0,3,5,2,São Cristóvão
+2774,Apartamentos,168.0,1600000.0,3,4,2,Jóquei
+2775,Apartamentos,77.0,300000.0,3,2,2,Cristo Rei
+2776,Apartamentos,69.0,180000.0,2,1,1,Gurupi
+2777,Apartamentos,200.0,2500000.0,4,5,3,Ininga
+2778,Apartamentos,48.0,130000.0,2,1,1,Cidade Nova
+2779,Casas,70.0,290000.0,2,2,2,Bela Vista
+2780,Casas,174.0,600000.0,3,4,2,Gurupi
+2781,Casas,99.0,130000.0,3,1,1,Pedra Mole
+2782,Casas,70.0,550000.0,3,2,2,Parque Alvorada
+2783,Apartamentos,78.0,230000.0,2,2,1,Ininga
+2784,Casas,120.0,1100000.0,4,1,2,Horto
+2785,Apartamentos,127.0,1000000.0,3,4,2,Jóquei
+2786,Apartamentos,128.0,1200000.0,3,3,2,Horto
+2787,Apartamentos,107.0,720000.0,3,3,2,Frei Serafim
+2788,Casas,390.0,850000.0,4,5,5,Planalto
+2790,Apartamentos,69.0,250000.0,2,2,1,Morada do Sol
+2791,Apartamentos,45.0,199000.0,2,2,1,Uruguai
+2792,Apartamentos,89.0,350000.0,3,1,2,Morada do Sol
+2793,Apartamentos,106.0,850000.0,3,4,2,Horto
+2794,Apartamentos,75.0,330000.0,2,3,1,São Cristóvão
+2796,Casas,100.0,310000.0,2,2,1,Vale Quem Tem
+2797,Apartamentos,105.0,650000.0,3,2,2,Fátima
+2798,Apartamentos,128.0,1000000.0,3,4,2,Fátima
+2799,Apartamentos,62.0,290000.0,3,2,2,São João
+2800,Apartamentos,59.0,220000.0,3,2,1,Parque Ideal
+2801,Casas,100.0,400000.0,4,3,1,Cabral
+2802,Casas,182.0,980000.0,4,4,2,Horto
+2803,Apartamentos,77.0,370000.0,2,3,1,Campestre
+2804,Apartamentos,75.0,420000.0,3,2,1,Santa Isabel
+2805,Apartamentos,107.0,680000.0,3,3,2,Frei Serafim
+2806,Apartamentos,82.0,650000.0,3,4,2,Jóquei
+2807,Apartamentos,130.0,770000.0,3,2,2,Fátima
+2808,Apartamentos,60.0,200000.0,3,2,1,Vale Quem Tem
+2809,Apartamentos,72.0,398000.0,3,3,2,Noivos
+2810,Apartamentos,86.0,562990.0,3,4,2,Jóquei
+2811,Apartamentos,75.0,290000.0,3,2,1,Piçarreira
+2812,Apartamentos,77.0,240000.0,3,3,1,Santa Isabel
+2813,Apartamentos,130.0,320000.0,4,3,2,São Cristóvão
+2814,Apartamentos,56.0,241752.0,2,1,1,Uruguai
+2815,Casas,76.0,282000.0,3,1,2,Morros
+2816,Casas,498.0,765000.0,2,2,1,Fátima
+2817,Apartamentos,80.0,420000.0,3,4,1,Noivos
+2819,Casas,151.0,780000.0,5,5,3,Samapi
+2820,Apartamentos,66.0,315000.0,3,2,1,Gurupi
+2821,Casas,180.0,1300000.0,1,5,5,Ininga
+2822,Apartamentos,59.0,350000.0,2,2,1,Recanto das Palmeiras
+2823,Casas,185.0,850000.0,4,5,2,Piçarreira
+2824,Casas,145.0,550000.0,3,1,2,São João
+2825,Apartamentos,65.0,165000.0,3,1,1,Uruguai
+2828,Apartamentos,179.0,1450000.0,4,4,3,Jóquei
+2829,Casas,260.0,1800000.0,3,3,4,Horto
+2830,Casas,350.0,950000.0,3,4,4,Ininga
+2831,Casas,61.0,130000.0,2,1,2,Parque Sul
+2832,Apartamentos,170.0,750000.0,3,4,2,Frei Serafim
+2833,Apartamentos,64.0,390000.0,3,2,2,Cristo Rei
+2834,Casas,98.0,275000.0,2,1,2,São Sebastião
+2835,Apartamentos,124.0,690000.0,3,2,2,Fátima
+2836,Apartamentos,224.0,2000000.0,3,5,3,São Cristóvão
+2837,Casas,105.0,1300000.0,4,5,5,Horto
+2838,Casas,195.0,700000.0,3,4,5,Gurupi
+2839,Apartamentos,300.0,2900000.0,4,4,5,Jóquei
+2841,Casas,160.0,500000.0,4,4,2,Uruguai
+2842,Apartamentos,80.0,240000.0,4,3,1,Santa Isabel
+2843,Apartamentos,250.0,1800000.0,3,1,3,Fátima
+2844,Apartamentos,150.0,1180000.0,3,4,3,Jóquei
+2845,Apartamentos,174.0,950000.0,3,4,2,Ilhotas
+2846,Casas,200.0,500000.0,4,5,2,Uruguai
+2847,Casas,160.0,630000.0,3,4,2,Santa Lia
+2848,Casas,100.0,670000.0,3,2,4,Morada do Sol
+2849,Apartamentos,86.0,275000.0,3,3,1,Piçarra
+2850,Casas,93.0,289000.0,3,2,1,Pedra Mole
+2851,Casas,103.0,620000.0,3,2,2,Campestre
+2852,Apartamentos,80.0,560000.0,3,4,2,Horto
+2853,Casas,175.0,890000.0,4,5,4,Gurupi
+2854,Apartamentos,74.0,430000.0,3,3,2,Noivos
+2855,Apartamentos,60.0,200000.0,3,2,1,Vale Quem Tem
+2856,Casas,400.0,1300000.0,4,4,2,Novo Uruguai
+2857,Casas,200.0,350000.0,4,4,2,Itararé
+2858,Apartamentos,50.0,150000.0,2,1,0,Santo Antônio
+2859,Apartamentos,160.0,1600000.0,3,4,3,Jóquei
+2860,Casas,165.0,520000.0,3,4,2,Bela Vista
+2861,Apartamentos,75.0,200000.0,3,1,1,Ininga
+2862,Apartamentos,86.0,230000.0,3,1,1,Morada do Sol
+2863,Apartamentos,130.0,770000.0,3,2,2,Horto
+2864,Casas,600.0,1800000.0,3,3,1,Morada do Sol
+2865,Apartamentos,82.0,650000.0,3,4,2,Jóquei
+2866,Casas,104.0,550000.0,3,4,2,Pedra Mole
+2867,Apartamentos,80.0,520000.0,3,3,2,Horto
+2869,Apartamentos,105.0,700000.0,4,3,2,Fátima
+2870,Apartamentos,244.0,1150000.0,4,5,0,Ilhotas
+2871,Apartamentos,46.0,140000.0,2,1,2,Cristo Rei
+2872,Apartamentos,60.0,280000.0,2,2,1,Santa Isabel
+2874,Casas,61.0,134265.0,2,1,1,Santa Maria
+2875,Casas,61.0,129700.0,2,1,1,Santa Maria
+2876,Apartamentos,46.0,126000.0,2,1,1,Santa Maria
+2877,Apartamentos,82.0,630000.0,2,3,1,Fátima
+2878,Apartamentos,46.0,133900.0,2,1,1,Santa Maria
+2879,Apartamentos,61.0,212300.0,2,2,1,Cristo Rei
+2880,Apartamentos,52.0,200000.0,2,2,1,Uruguai
+2881,Apartamentos,46.0,134900.0,2,1,1,Santa Maria
+2882,Apartamentos,75.0,360000.0,3,2,1,Santa Isabel
+2883,Casas,145.0,680000.0,4,4,2,Morros
+2885,Casas,152.0,800000.0,4,5,2,Samapi
+2886,Apartamentos,105.0,650000.0,3,2,2,Fátima
+2887,Apartamentos,49.0,140000.0,2,2,1,Vale do Gavião
+2888,Casas,302.0,2200000.0,4,5,4,Uruguai
+2889,Apartamentos,67.0,410000.0,2,2,1,Jóquei
+2890,Casas,400.0,2900000.0,5,5,2,Tabajaras
+2891,Apartamentos,160.0,1600000.0,3,4,3,Jóquei
+2892,Casas,224.0,800000.0,3,3,3,Fátima
+2893,Casas,400.0,1300000.0,4,4,2,Gurupi
+2894,Casas,374.0,1600000.0,4,5,2,Morada do Sol
+2895,Casas,160.0,700000.0,3,2,4,Lourival Parente
+2896,Casas,60.0,139000.0,2,1,1,Vale do Gavião
+2897,Apartamentos,48.0,170000.0,2,1,1,Campestre
+2898,Casas,175.0,890000.0,4,5,4,Gurupi
+2899,Casas,156.0,750000.0,4,4,2,Zoobotânico
+2900,Apartamentos,187.0,1191744.0,4,5,3,Noivos
+2901,Apartamentos,75.0,420000.0,3,2,1,Santa Isabel
+2902,Apartamentos,105.0,650000.0,3,2,2,Fátima
+2903,Casas,390.0,900000.0,4,3,2,Ininga
+2904,Apartamentos,77.0,350000.0,2,3,1,Horto
+2905,Apartamentos,72.0,398000.0,3,3,2,Noivos
+2907,Casas,120.0,398000.0,4,2,3,Gurupi
+2908,Apartamentos,168.0,1600000.0,3,4,2,Jóquei
+2909,Apartamentos,77.0,280000.0,3,3,1,Uruguai
+2910,Apartamentos,196.0,920000.0,3,4,2,Horto
+2911,Casas,220.0,1500000.0,4,4,4,Fátima
+2912,Casas,152.0,780000.0,4,5,2,Samapi
+2914,Casas,225.0,500000.0,3,2,4,São Cristóvão
+2915,Apartamentos,77.0,265000.0,3,3,1,Campestre
+2916,Apartamentos,90.0,250000.0,3,3,1,Piçarra
+2917,Apartamentos,75.0,290000.0,3,2,1,Piçarreira
+2918,Casas,167.0,580000.0,3,3,3,Ininga
+2919,Casas,169.0,430000.0,3,3,4,Morada Nova
+2920,Casas,157.0,780000.0,4,5,3,Samapi
